@@ -1,4 +1,3 @@
-import pandas as pd
 import json
 import sys
 
@@ -14,23 +13,29 @@ class WordPieceTokenizer:
     
     def construct_vocabulary(self, corpus, vocabulary_size):
         tokenized_corpus = [sentence.split() for sentence in corpus]
-        unique_words = list(set([word for array in tokenized_corpus for word in array]))
-        split_corpus = [[word[0]] + ['##' + char for char in word[1:]] for word in unique_words]
-        vocabulary = list(set([char for split in split_corpus for char in split]))
-        
-        for _ in range(vocabulary_size):
+        word_freq = {}
+        split_corpus = {}
+        for word_array in tokenized_corpus:
+            for word in word_array:
+                word_freq[word] = word_freq.get(word, 0) + 1
+                if(word not in split_corpus):
+                    split_corpus[word] = [word[0]] + ['##' + char for char in word[1:]]
+    
+        vocabulary = list(set([char for _, split in split_corpus.items() for char in split]))
+        vocabulary.sort()
+        vocabulary = [ "[UNK]", "[PAD]" ] + vocabulary
+
+        while len(vocabulary) <= vocabulary_size:
             pair_freq = {}
             token_freq = {}
-            for split in split_corpus:
+            for word, split in split_corpus.items():
                 for token in split:
-                    token_freq[token] = token_freq.get(token, 0) + 1
-                    token_freq[token] += 1
+                    token_freq[token] = token_freq.get(token, 0) + word_freq[word]
 
-            for split in split_corpus:
+            for word, split in split_corpus.items():
                 for idx in range(len(split) - 1):
                     pair = (split[idx], split[idx+1])
-                    pair_freq[pair] = pair_freq.get(pair, 0) + 1
-                    pair_freq[pair] += 1
+                    pair_freq[pair] = pair_freq.get(pair, 0) + word_freq[word]
 
             if(len(pair_freq) == 0):
                 break
@@ -39,8 +44,7 @@ class WordPieceTokenizer:
             max_token = max_pair[0] + max_pair[1][2:]
             vocabulary.append(max_token)
 
-            updated_split_corpus = []
-            for split in split_corpus:
+            for word, split in split_corpus.items():
                 updated_split = []
                 idx = 0
                 while idx < len(split):
@@ -50,8 +54,7 @@ class WordPieceTokenizer:
                     else:
                         updated_split.append(split[idx])
                         idx += 1
-                updated_split_corpus.append(updated_split)
-            split_corpus = updated_split_corpus
+                split_corpus[word] = updated_split
 
         self.vocab = vocabulary
         file_path = "vocabulary.txt"
@@ -68,17 +71,19 @@ class WordPieceTokenizer:
             while start_idx < len(word):
                 marker = '##' if start_idx != 0 else ''
                 end_idx = len(word)-1
-                error_flag = True
+                unk_flag = True
                 while end_idx >= start_idx:
                     if marker + word[start_idx:end_idx+1] in self.vocab:
                         tokens.append(marker + word[start_idx:end_idx+1])
                         start_idx = end_idx+1
-                        error_flag = False
+                        unk_flag = False
                         break
                     else:
                         end_idx -= 1
-                if error_flag:
-                    raise Exception(f"ERROR: Encountered unknown character while tokenizing {word}")
+                if unk_flag:
+                    tokens.append('[UNK]')
+                    start_idx += 1
+
         return tokens
 
     def __score(self, pair_freq, token_freq, pair):
@@ -91,7 +96,11 @@ if __name__ == "__main__":
         sys.exit(1)
 
     try:
-        df = pd.read_csv("corpus.txt", header=None, names=["text"])
+        corpus = []
+        corpus_file = 'corpus.txt'
+        with open(corpus_file, 'r', encoding='utf-8') as file:
+            for line in file:
+                corpus.append(line.strip())
 
         try:
             json_file = sys.argv[1]
@@ -99,9 +108,8 @@ if __name__ == "__main__":
                 data = json.load(file)
 
             tokenizer = WordPieceTokenizer()
-            corpus = df['text'].tolist()
             corpus= [tokenizer.preprocess_data(line) for line in corpus]
-            tokenizer.construct_vocabulary(corpus, vocabulary_size=1000)
+            tokenizer.construct_vocabulary(corpus, vocabulary_size=100)
             
             tokenized_data = {}
 
@@ -119,4 +127,4 @@ if __name__ == "__main__":
         except json.JSONDecodeError:
             print(f"Error: Invalid JSON format in '{json_file}'.")
     except FileNotFoundError:
-        print(f"Error: File corpus.txt not found.")
+        print(f"Error: File {corpus_file} not found.")
