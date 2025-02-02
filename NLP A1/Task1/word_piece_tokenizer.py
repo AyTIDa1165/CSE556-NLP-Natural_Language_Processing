@@ -74,12 +74,12 @@ class WordPieceTokenizer:
                         idx += 1
                 split_corpus[word] = updated_split
 
-        self.vocab = vocabulary
+        self.vocab = vocabulary[:vocabulary_size]
         file_path = "vocabulary.txt"
 
         # Save vocabulary to file
         with open(file_path, "w", encoding="utf-8") as f:
-            for token in vocabulary:
+            for token in self.vocab:
                 f.write(token + "\n")
         print(f"Vocabulary has been constructed in vocabulary.txt")
     
@@ -141,7 +141,7 @@ if __name__ == "__main__":
 
             tokenizer = WordPieceTokenizer()
             corpus = [tokenizer.preprocess_data(line) for line in corpus]  # Preprocess corpus
-            tokenizer.construct_vocabulary(corpus, vocabulary_size=100)  # Construct vocabulary
+            tokenizer.construct_vocabulary(corpus, vocabulary_size=1000)  # Construct vocabulary
             
             tokenized_data = {}
 
