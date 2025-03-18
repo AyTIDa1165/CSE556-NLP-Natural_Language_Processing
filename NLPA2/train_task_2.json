@@ -235,7 +235,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "orrechiete with sausage and chicken"
+            "orrechiete",
+            "with",
+            "sausage",
+            "and",
+            "chicken"
         ],
         "index": 5
     },
@@ -877,7 +881,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "thin crusted pizza"
+            "thin",
+            "crusted",
+            "pizza"
         ],
         "index": 8
     },
@@ -901,7 +907,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "interior decoration"
+            "interior",
+            "decoration"
         ],
         "index": 6
     },
@@ -965,7 +972,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "seltzer with lime"
+            "seltzer",
+            "with",
+            "lime"
         ],
         "index": 3
     },
@@ -1023,7 +1032,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "selection of meats and seafoods"
+            "selection",
+            "of",
+            "meats",
+            "and",
+            "seafoods"
         ],
         "index": 15
     },
@@ -1071,7 +1084,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "eat family style"
+            "eat",
+            "family",
+            "style"
         ],
         "index": 4
     },
@@ -1319,7 +1334,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "interior deco"
+            "interior",
+            "deco"
         ],
         "index": 6
     },
@@ -1499,7 +1515,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "sushi bar"
+            "sushi",
+            "bar"
         ],
         "index": 28
     },
@@ -1514,7 +1531,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fried rice"
+            "fried",
+            "rice"
         ],
         "index": 1
     },
@@ -1590,7 +1608,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "puff pastry goat cheese"
+            "puff",
+            "pastry",
+            "goat",
+            "cheese"
         ],
         "index": 7
     },
@@ -1628,7 +1649,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "salad with a delicious dressing"
+            "salad",
+            "with",
+            "a",
+            "delicious",
+            "dressing"
         ],
         "index": 12
     },
@@ -1666,7 +1691,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "hanger steak au poivre"
+            "hanger",
+            "steak",
+            "au",
+            "poivre"
         ],
         "index": 19
     },
@@ -1723,7 +1751,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "indian food"
+            "indian",
+            "food"
         ],
         "index": 8
     },
@@ -1793,7 +1822,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "broth with noodles"
+            "broth",
+            "with",
+            "noodles"
         ],
         "index": 8
     },
@@ -1877,7 +1908,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 1
     },
@@ -1912,7 +1944,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Thai food"
+            "Thai",
+            "food"
         ],
         "index": 16
     },
@@ -1934,7 +1967,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "glass of wine"
+            "glass",
+            "of",
+            "wine"
         ],
         "index": 7
     },
@@ -2254,7 +2289,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lasagnette appetizer"
+            "lasagnette",
+            "appetizer"
         ],
         "index": 2
     },
@@ -2268,7 +2304,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "beer selection"
+            "beer",
+            "selection"
         ],
         "index": 3
     },
@@ -2446,7 +2483,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Wine list selection"
+            "Wine",
+            "list",
+            "selection"
         ],
         "index": 0
     },
@@ -2598,7 +2637,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "sake martini"
+            "sake",
+            "martini"
         ],
         "index": 5
     },
@@ -2795,7 +2835,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "garden terrace"
+            "garden",
+            "terrace"
         ],
         "index": 6
     },
@@ -3029,7 +3070,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "grilled branzino"
+            "grilled",
+            "branzino"
         ],
         "index": 4
     },
@@ -3051,7 +3093,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wait staff"
+            "wait",
+            "staff"
         ],
         "index": 1
     },
@@ -3143,7 +3186,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "French food"
+            "French",
+            "food"
         ],
         "index": 18
     },
@@ -3246,7 +3290,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pre-theater menu"
+            "pre-theater",
+            "menu"
         ],
         "index": 6
     },
@@ -3371,7 +3416,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lobster sandwich"
+            "lobster",
+            "sandwich"
         ],
         "index": 3
     },
@@ -3449,7 +3495,8 @@
         ],
         "polarity": "conflict",
         "aspect_term": [
-            "Spider Roll"
+            "Spider",
+            "Roll"
         ],
         "index": 2
     },
@@ -3527,7 +3574,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "shell crab"
+            "shell",
+            "crab"
         ],
         "index": 13
     },
@@ -3548,7 +3596,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Deep Fried Skewers"
+            "Deep",
+            "Fried",
+            "Skewers"
         ],
         "index": 0
     },
@@ -3619,7 +3669,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "rice dishes"
+            "rice",
+            "dishes"
         ],
         "index": 4
     },
@@ -3642,7 +3693,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "congee (rice porridge)"
+            "congee",
+            "(rice",
+            "porridge)"
         ],
         "index": 11
     },
@@ -3659,7 +3712,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "tuna tartar appetizer"
+            "tuna",
+            "tartar",
+            "appetizer"
         ],
         "index": 1
     },
@@ -3785,7 +3840,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fish dishes"
+            "fish",
+            "dishes"
         ],
         "index": 29
     },
@@ -3955,7 +4011,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "french fare"
+            "french",
+            "fare"
         ],
         "index": 8
     },
@@ -4000,7 +4057,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Indian food"
+            "Indian",
+            "food"
         ],
         "index": 2
     },
@@ -4015,7 +4073,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "baby pizzas"
+            "baby",
+            "pizzas"
         ],
         "index": 1
     },
@@ -4057,7 +4116,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lava cake dessert"
+            "lava",
+            "cake",
+            "dessert"
         ],
         "index": 1
     },
@@ -4078,7 +4139,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "baby pizzas"
+            "baby",
+            "pizzas"
         ],
         "index": 3
     },
@@ -4294,7 +4356,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "selection of wines"
+            "selection",
+            "of",
+            "wines"
         ],
         "index": 1
     },
@@ -4311,7 +4375,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Italian decor"
+            "Italian",
+            "decor"
         ],
         "index": 6
     },
@@ -4340,7 +4405,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dining experience"
+            "dining",
+            "experience"
         ],
         "index": 2
     },
@@ -4375,7 +4441,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine selection"
+            "wine",
+            "selection"
         ],
         "index": 1
     },
@@ -4527,7 +4594,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "panang duck"
+            "panang",
+            "duck"
         ],
         "index": 2
     },
@@ -4579,7 +4647,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "raw vegatables"
+            "raw",
+            "vegatables"
         ],
         "index": 12
     },
@@ -4665,7 +4734,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "BBQ Salmon"
+            "BBQ",
+            "Salmon"
         ],
         "index": 6
     },
@@ -4687,7 +4757,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Sea Bass"
+            "Sea",
+            "Bass"
         ],
         "index": 8
     },
@@ -4709,7 +4780,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Crispy Duck"
+            "Crispy",
+            "Duck"
         ],
         "index": 11
     },
@@ -4883,7 +4955,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Dal Bukhara"
+            "Dal",
+            "Bukhara"
         ],
         "index": 2
     },
@@ -5010,7 +5083,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "glass of prosecco"
+            "glass",
+            "of",
+            "prosecco"
         ],
         "index": 6
     },
@@ -5058,7 +5133,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "glass of Leaping Lizard"
+            "glass",
+            "of",
+            "Leaping",
+            "Lizard"
         ],
         "index": 1
     },
@@ -5114,7 +5192,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "creme brulee"
+            "creme",
+            "brulee"
         ],
         "index": 4
     },
@@ -5280,7 +5359,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "garlic knots"
+            "garlic",
+            "knots"
         ],
         "index": 2
     },
@@ -5306,7 +5386,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "chinese food"
+            "chinese",
+            "food"
         ],
         "index": 2
     },
@@ -5497,7 +5578,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fresh mozzarella"
+            "fresh",
+            "mozzarella"
         ],
         "index": 7
     },
@@ -5630,7 +5712,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "getting a table"
+            "getting",
+            "a",
+            "table"
         ],
         "index": 11
     },
@@ -5670,7 +5754,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "bistro-type vibe"
+            "bistro-type",
+            "vibe"
         ],
         "index": 9
     },
@@ -5852,7 +5937,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "variety of fish"
+            "variety",
+            "of",
+            "fish"
         ],
         "index": 6
     },
@@ -5877,7 +5964,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pesto pizza"
+            "pesto",
+            "pizza"
         ],
         "index": 5
     },
@@ -5902,7 +5990,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "house salad"
+            "house",
+            "salad"
         ],
         "index": 8
     },
@@ -5927,7 +6016,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "bottle of wine"
+            "bottle",
+            "of",
+            "wine"
         ],
         "index": 13
     },
@@ -6000,7 +6091,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "beverage manager"
+            "beverage",
+            "manager"
         ],
         "index": 3
     },
@@ -6519,7 +6611,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "back waiters"
+            "back",
+            "waiters"
         ],
         "index": 31
     },
@@ -6555,7 +6648,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "tandoori salmon"
+            "tandoori",
+            "salmon"
         ],
         "index": 2
     },
@@ -6702,7 +6796,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "menu items"
+            "menu",
+            "items"
         ],
         "index": 8
     },
@@ -6737,7 +6832,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "three course meal"
+            "three",
+            "course",
+            "meal"
         ],
         "index": 7
     },
@@ -6898,7 +6995,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "crawfish boiled"
+            "crawfish",
+            "boiled"
         ],
         "index": 2
     },
@@ -6968,7 +7066,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Pad Thai"
+            "Pad",
+            "Thai"
         ],
         "index": 3
     },
@@ -7041,7 +7140,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "values for your money"
+            "values",
+            "for",
+            "your",
+            "money"
         ],
         "index": 16
     },
@@ -7165,7 +7267,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "wait building"
+            "wait",
+            "building"
         ],
         "index": 15
     },
@@ -7506,7 +7609,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "pickels and slaw"
+            "pickels",
+            "and",
+            "slaw"
         ],
         "index": 3
     },
@@ -7567,7 +7672,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine by the glass"
+            "wine",
+            "by",
+            "the",
+            "glass"
         ],
         "index": 2
     },
@@ -7640,7 +7748,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Change Mojito"
+            "Change",
+            "Mojito"
         ],
         "index": 4
     },
@@ -7732,7 +7841,10 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "soup for the udon"
+            "soup",
+            "for",
+            "the",
+            "udon"
         ],
         "index": 1
     },
@@ -7751,7 +7863,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "soy sauce"
+            "soy",
+            "sauce"
         ],
         "index": 6
     },
@@ -7836,7 +7949,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "filling pasta mains"
+            "filling",
+            "pasta",
+            "mains"
         ],
         "index": 10
     },
@@ -7902,7 +8017,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "glasses of wine"
+            "glasses",
+            "of",
+            "wine"
         ],
         "index": 3
     },
@@ -8044,7 +8161,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "ceviche mix (special)"
+            "ceviche",
+            "mix",
+            "(special)"
         ],
         "index": 15
     },
@@ -8086,7 +8205,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "crab dumplings"
+            "crab",
+            "dumplings"
         ],
         "index": 18
     },
@@ -8128,7 +8248,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "assorted sashimi"
+            "assorted",
+            "sashimi"
         ],
         "index": 20
     },
@@ -8296,7 +8417,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "banana tempura"
+            "banana",
+            "tempura"
         ],
         "index": 31
     },
@@ -8314,7 +8436,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "plain pizza"
+            "plain",
+            "pizza"
         ],
         "index": 2
     },
@@ -8452,7 +8575,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "getting a table"
+            "getting",
+            "a",
+            "table"
         ],
         "index": 2
     },
@@ -8494,7 +8619,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "takeout menu"
+            "takeout",
+            "menu"
         ],
         "index": 1
     },
@@ -8552,7 +8678,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "italian dishes"
+            "italian",
+            "dishes"
         ],
         "index": 15
     },
@@ -8582,7 +8709,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Thai food"
+            "Thai",
+            "food"
         ],
         "index": 11
     },
@@ -8646,7 +8774,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "bottles of wine"
+            "bottles",
+            "of",
+            "wine"
         ],
         "index": 0
     },
@@ -8775,7 +8905,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pumkin tortelini"
+            "pumkin",
+            "tortelini"
         ],
         "index": 32
     },
@@ -8839,7 +8970,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "dinner special"
+            "dinner",
+            "special"
         ],
         "index": 5
     },
@@ -8867,7 +8999,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "crabmeat lasagna"
+            "crabmeat",
+            "lasagna"
         ],
         "index": 4
     },
@@ -8895,7 +9028,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "chocolate bread pudding"
+            "chocolate",
+            "bread",
+            "pudding"
         ],
         "index": 14
     },
@@ -8948,7 +9083,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pasta dishes"
+            "pasta",
+            "dishes"
         ],
         "index": 6
     },
@@ -9296,7 +9432,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "plate of dumplings"
+            "plate",
+            "of",
+            "dumplings"
         ],
         "index": 13
     },
@@ -9317,7 +9455,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Filet Mignon"
+            "Filet",
+            "Mignon"
         ],
         "index": 3
     },
@@ -9517,7 +9656,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sake menu"
+            "sake",
+            "menu"
         ],
         "index": 1
     },
@@ -9562,7 +9702,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "beef cubes"
+            "beef",
+            "cubes"
         ],
         "index": 12
     },
@@ -9602,7 +9743,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine selection"
+            "wine",
+            "selection"
         ],
         "index": 2
     },
@@ -9812,7 +9954,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "traffic noise"
+            "traffic",
+            "noise"
         ],
         "index": 14
     },
@@ -9941,7 +10084,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "dinner meeting"
+            "dinner",
+            "meeting"
         ],
         "index": 17
     },
@@ -10109,7 +10253,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Prix Fixe menu"
+            "Prix",
+            "Fixe",
+            "menu"
         ],
         "index": 1
     },
@@ -10228,7 +10374,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "eggs benedict"
+            "eggs",
+            "benedict"
         ],
         "index": 3
     },
@@ -10265,7 +10412,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "hollondaise sauce"
+            "hollondaise",
+            "sauce"
         ],
         "index": 19
     },
@@ -10419,7 +10567,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Chilean Sea Bass"
+            "Chilean",
+            "Sea",
+            "Bass"
         ],
         "index": 8
     },
@@ -10545,7 +10695,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "onion soup"
+            "onion",
+            "soup"
         ],
         "index": 8
     },
@@ -10653,7 +10804,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Dim Sum"
+            "Dim",
+            "Sum"
         ],
         "index": 20
     },
@@ -10859,7 +11011,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "gin and tonic"
+            "gin",
+            "and",
+            "tonic"
         ],
         "index": 10
     },
@@ -10921,7 +11075,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "dim sum"
+            "dim",
+            "sum"
         ],
         "index": 1
     },
@@ -10957,7 +11112,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "little dishes"
+            "little",
+            "dishes"
         ],
         "index": 12
     },
@@ -11048,7 +11204,12 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Grilled Chicken special with Edamame Puree"
+            "Grilled",
+            "Chicken",
+            "special",
+            "with",
+            "Edamame",
+            "Puree"
         ],
         "index": 8
     },
@@ -11073,7 +11234,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "roast duck"
+            "roast",
+            "duck"
         ],
         "index": 4
     },
@@ -11123,7 +11285,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "chicken on rice with ginger"
+            "chicken",
+            "on",
+            "rice",
+            "with",
+            "ginger"
         ],
         "index": 8
     },
@@ -11331,7 +11497,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "roti rolls"
+            "roti",
+            "rolls"
         ],
         "index": 8
     },
@@ -11527,7 +11694,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "hot dogs"
+            "hot",
+            "dogs"
         ],
         "index": 2
     },
@@ -11556,7 +11724,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "noise level"
+            "noise",
+            "level"
         ],
         "index": 1
     },
@@ -11575,7 +11744,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Personal pans"
+            "Personal",
+            "pans"
         ],
         "index": 0
     },
@@ -11595,7 +11765,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Spicy Fried Clam Rolls"
+            "Spicy",
+            "Fried",
+            "Clam",
+            "Rolls"
         ],
         "index": 4
     },
@@ -11615,7 +11788,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Spider Rolls"
+            "Spider",
+            "Rolls"
         ],
         "index": 9
     },
@@ -11782,7 +11956,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "food quality"
+            "food",
+            "quality"
         ],
         "index": 17
     },
@@ -12061,7 +12236,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "containers for condiments"
+            "containers",
+            "for",
+            "condiments"
         ],
         "index": 23
     },
@@ -12166,7 +12343,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Indian food"
+            "Indian",
+            "food"
         ],
         "index": 1
     },
@@ -12276,7 +12454,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 15
     },
@@ -12339,7 +12518,8 @@
         ],
         "polarity": "conflict",
         "aspect_term": [
-            "salmon dish"
+            "salmon",
+            "dish"
         ],
         "index": 3
     },
@@ -12430,7 +12610,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "tuna melt"
+            "tuna",
+            "melt"
         ],
         "index": 3
     },
@@ -12484,7 +12665,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "tuna sandwich"
+            "tuna",
+            "sandwich"
         ],
         "index": 16
     },
@@ -12503,7 +12685,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "chicken tikka"
+            "chicken",
+            "tikka"
         ],
         "index": 2
     },
@@ -12696,7 +12879,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "thai food"
+            "thai",
+            "food"
         ],
         "index": 7
     },
@@ -12944,7 +13128,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "price tag"
+            "price",
+            "tag"
         ],
         "index": 2
     },
@@ -12962,7 +13147,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Thai food"
+            "Thai",
+            "food"
         ],
         "index": 3
     },
@@ -13083,7 +13269,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "main dining room"
+            "main",
+            "dining",
+            "room"
         ],
         "index": 5
     },
@@ -13142,7 +13330,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "menu selections"
+            "menu",
+            "selections"
         ],
         "index": 14
     },
@@ -13236,7 +13425,8 @@
         ],
         "polarity": "conflict",
         "aspect_term": [
-            "dim sum"
+            "dim",
+            "sum"
         ],
         "index": 4
     },
@@ -13266,7 +13456,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wait staff"
+            "wait",
+            "staff"
         ],
         "index": 1
     },
@@ -13282,7 +13473,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dim sum"
+            "dim",
+            "sum"
         ],
         "index": 1
     },
@@ -13319,7 +13511,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "seafood dishes"
+            "seafood",
+            "dishes"
         ],
         "index": 8
     },
@@ -13417,7 +13610,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "bottle of wine"
+            "bottle",
+            "of",
+            "wine"
         ],
         "index": 16
     },
@@ -13496,7 +13691,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "thai food"
+            "thai",
+            "food"
         ],
         "index": 5
     },
@@ -13637,7 +13833,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Dim Sum"
+            "Dim",
+            "Sum"
         ],
         "index": 1
     },
@@ -13907,7 +14104,8 @@
         ],
         "polarity": "conflict",
         "aspect_term": [
-            "lobster sandwich"
+            "lobster",
+            "sandwich"
         ],
         "index": 1
     },
@@ -14177,7 +14375,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Asian appetizers"
+            "Asian",
+            "appetizers"
         ],
         "index": 12
     },
@@ -14617,7 +14816,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "striped bass"
+            "striped",
+            "bass"
         ],
         "index": 8
     },
@@ -14715,7 +14915,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "black white shakes"
+            "black",
+            "white",
+            "shakes"
         ],
         "index": 0
     },
@@ -14815,7 +15017,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "chu chu curry"
+            "chu",
+            "chu",
+            "curry"
         ],
         "index": 3
     },
@@ -14838,7 +15042,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "pad thai chicken"
+            "pad",
+            "thai",
+            "chicken"
         ],
         "index": 11
     },
@@ -14896,7 +15102,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "prix fixe"
+            "prix",
+            "fixe"
         ],
         "index": 6
     },
@@ -14997,7 +15204,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "bagel with lox spread"
+            "bagel",
+            "with",
+            "lox",
+            "spread"
         ],
         "index": 6
     },
@@ -15085,7 +15295,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "quality of food"
+            "quality",
+            "of",
+            "food"
         ],
         "index": 16
     },
@@ -15125,7 +15337,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "lobby area"
+            "lobby",
+            "area"
         ],
         "index": 12
     },
@@ -15227,7 +15440,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "lunch meetings"
+            "lunch",
+            "meetings"
         ],
         "index": 4
     },
@@ -15305,7 +15519,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "food's presentation"
+            "food's",
+            "presentation"
         ],
         "index": 9
     },
@@ -15561,7 +15776,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Italian food"
+            "Italian",
+            "food"
         ],
         "index": 1
     },
@@ -15666,7 +15882,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "salmon dish"
+            "salmon",
+            "dish"
         ],
         "index": 9
     },
@@ -15854,7 +16071,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "lobster ravioli"
+            "lobster",
+            "ravioli"
         ],
         "index": 3
     },
@@ -15998,7 +16216,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 7
     },
@@ -16106,7 +16325,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 13
     },
@@ -16156,7 +16376,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Pastrami or corned beef"
+            "Pastrami",
+            "or",
+            "corned",
+            "beef"
         ],
         "index": 0
     },
@@ -16179,7 +16402,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "rye bread"
+            "rye",
+            "bread"
         ],
         "index": 12
     },
@@ -16205,7 +16429,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "glasses of champagne"
+            "glasses",
+            "of",
+            "champagne"
         ],
         "index": 3
     },
@@ -16231,7 +16457,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "bottle of wine"
+            "bottle",
+            "of",
+            "wine"
         ],
         "index": 9
     },
@@ -16257,7 +16485,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "after dinner drinks"
+            "after",
+            "dinner",
+            "drinks"
         ],
         "index": 14
     },
@@ -16416,7 +16646,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 1
     },
@@ -16569,7 +16800,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "main dishes"
+            "main",
+            "dishes"
         ],
         "index": 15
     },
@@ -16761,7 +16993,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "gourmet food"
+            "gourmet",
+            "food"
         ],
         "index": 5
     },
@@ -16972,7 +17205,19 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fried mini buns with the condensed milk and the assorted fruits on beancurd"
+            "fried",
+            "mini",
+            "buns",
+            "with",
+            "the",
+            "condensed",
+            "milk",
+            "and",
+            "the",
+            "assorted",
+            "fruits",
+            "on",
+            "beancurd"
         ],
         "index": 17
     },
@@ -17211,7 +17456,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "take-out pizza"
+            "take-out",
+            "pizza"
         ],
         "index": 16
     },
@@ -17241,7 +17487,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "green curry with vegetables"
+            "green",
+            "curry",
+            "with",
+            "vegetables"
         ],
         "index": 1
     },
@@ -17407,7 +17656,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Pad Thai"
+            "Pad",
+            "Thai"
         ],
         "index": 1
     },
@@ -17433,7 +17683,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "lunch specials"
+            "lunch",
+            "specials"
         ],
         "index": 4
     },
@@ -17557,7 +17808,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "tempura dis"
+            "tempura",
+            "dis"
         ],
         "index": 9
     },
@@ -17721,7 +17973,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "entree range"
+            "entree",
+            "range"
         ],
         "index": 3
     },
@@ -17746,7 +17999,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "French food"
+            "French",
+            "food"
         ],
         "index": 12
     },
@@ -17857,7 +18111,11 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "smoked salmon and roe appetizer"
+            "smoked",
+            "salmon",
+            "and",
+            "roe",
+            "appetizer"
         ],
         "index": 3
     },
@@ -17937,7 +18195,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "garlic shrimp"
+            "garlic",
+            "shrimp"
         ],
         "index": 3
     },
@@ -17977,7 +18236,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "okra (bindi)"
+            "okra",
+            "(bindi)"
         ],
         "index": 5
     },
@@ -18147,7 +18407,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "casual dinner"
+            "casual",
+            "dinner"
         ],
         "index": 2
     },
@@ -18222,7 +18483,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 14
     },
@@ -18268,7 +18530,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "chicken tikka marsala"
+            "chicken",
+            "tikka",
+            "marsala"
         ],
         "index": 8
     },
@@ -18290,7 +18554,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "styles of pizza"
+            "styles",
+            "of",
+            "pizza"
         ],
         "index": 5
     },
@@ -18376,7 +18642,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "coconut rice"
+            "coconut",
+            "rice"
         ],
         "index": 2
     },
@@ -18455,7 +18722,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "beers on tap"
+            "beers",
+            "on",
+            "tap"
         ],
         "index": 6
     },
@@ -18479,7 +18748,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 13
     },
@@ -18579,7 +18849,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "bottle minimun"
+            "bottle",
+            "minimun"
         ],
         "index": 22
     },
@@ -18720,7 +18991,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Quality of food"
+            "Quality",
+            "of",
+            "food"
         ],
         "index": 0
     },
@@ -19066,7 +19339,12 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fusion of French and Indian cooking"
+            "fusion",
+            "of",
+            "French",
+            "and",
+            "Indian",
+            "cooking"
         ],
         "index": 6
     },
@@ -19088,7 +19366,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "turnip cake"
+            "turnip",
+            "cake"
         ],
         "index": 5
     },
@@ -19110,7 +19389,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "roast pork buns"
+            "roast",
+            "pork",
+            "buns"
         ],
         "index": 7
     },
@@ -19132,7 +19413,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "egg custards"
+            "egg",
+            "custards"
         ],
         "index": 11
     },
@@ -19177,7 +19459,10 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "seating in the garden"
+            "seating",
+            "in",
+            "the",
+            "garden"
         ],
         "index": 11
     },
@@ -19372,7 +19657,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "food options"
+            "food",
+            "options"
         ],
         "index": 1
     },
@@ -19415,7 +19701,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "pre-theatre 3-course dinner"
+            "pre-theatre",
+            "3-course",
+            "dinner"
         ],
         "index": 9
     },
@@ -19439,7 +19727,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "wine flight"
+            "wine",
+            "flight"
         ],
         "index": 13
     },
@@ -19576,7 +19865,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "bar scene"
+            "bar",
+            "scene"
         ],
         "index": 6
     },
@@ -19644,7 +19934,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "beverage selections"
+            "beverage",
+            "selections"
         ],
         "index": 3
     },
@@ -19818,7 +20109,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "secret back room"
+            "secret",
+            "back",
+            "room"
         ],
         "index": 3
     },
@@ -19918,7 +20211,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "gulab jamun"
+            "gulab",
+            "jamun"
         ],
         "index": 3
     },
@@ -20082,7 +20376,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 30
     },
@@ -20158,7 +20453,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "wait staff"
+            "wait",
+            "staff"
         ],
         "index": 12
     },
@@ -20316,7 +20612,13 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pig feet ginger simmered in black vinegar"
+            "pig",
+            "feet",
+            "ginger",
+            "simmered",
+            "in",
+            "black",
+            "vinegar"
         ],
         "index": 32
     },
@@ -20364,7 +20666,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "desserts with frog jelly"
+            "desserts",
+            "with",
+            "frog",
+            "jelly"
         ],
         "index": 22
     },
@@ -20415,7 +20720,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "thai cuisine"
+            "thai",
+            "cuisine"
         ],
         "index": 8
     },
@@ -20538,7 +20844,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "round tables"
+            "round",
+            "tables"
         ],
         "index": 11
     },
@@ -20645,7 +20952,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "french fries"
+            "french",
+            "fries"
         ],
         "index": 19
     },
@@ -20779,7 +21087,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "regular menu-fare"
+            "regular",
+            "menu-fare"
         ],
         "index": 10
     },
@@ -20829,7 +21138,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fresh tomato sauce"
+            "fresh",
+            "tomato",
+            "sauce"
         ],
         "index": 3
     },
@@ -20866,7 +21177,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fresh mozz cheese"
+            "fresh",
+            "mozz",
+            "cheese"
         ],
         "index": 6
     },
@@ -21057,7 +21370,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Indian food"
+            "Indian",
+            "food"
         ],
         "index": 6
     },
@@ -21084,7 +21398,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Paneer Roll"
+            "Paneer",
+            "Roll"
         ],
         "index": 10
     },
@@ -21155,7 +21470,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fresh mozzerella slices"
+            "fresh",
+            "mozzerella",
+            "slices"
         ],
         "index": 2
     },
@@ -21176,7 +21493,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Plain Cheese slice"
+            "Plain",
+            "Cheese",
+            "slice"
         ],
         "index": 7
     },
@@ -21271,7 +21590,11 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Filet Mignon with garlic mash"
+            "Filet",
+            "Mignon",
+            "with",
+            "garlic",
+            "mash"
         ],
         "index": 2
     },
@@ -21305,7 +21628,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pre-theater menu"
+            "pre-theater",
+            "menu"
         ],
         "index": 8
     },
@@ -21339,7 +21663,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "roasted tomato soup with chevre"
+            "roasted",
+            "tomato",
+            "soup",
+            "with",
+            "chevre"
         ],
         "index": 12
     },
@@ -21373,7 +21701,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "steak frites"
+            "steak",
+            "frites"
         ],
         "index": 17
     },
@@ -21407,7 +21736,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "creme brulee"
+            "creme",
+            "brulee"
         ],
         "index": 19
     },
@@ -21617,7 +21947,16 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "margarite pizza with cold prosciutto and baby arugula on top"
+            "margarite",
+            "pizza",
+            "with",
+            "cold",
+            "prosciutto",
+            "and",
+            "baby",
+            "arugula",
+            "on",
+            "top"
         ],
         "index": 40
     },
@@ -21741,7 +22080,14 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Peter's Favourite pizza with prosciutto and baby arugula"
+            "Peter's",
+            "Favourite",
+            "pizza",
+            "with",
+            "prosciutto",
+            "and",
+            "baby",
+            "arugula"
         ],
         "index": 29
     },
@@ -22157,7 +22503,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pre-theater prix-fixe"
+            "pre-theater",
+            "prix-fixe"
         ],
         "index": 14
     },
@@ -22302,7 +22649,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "fried chicken"
+            "fried",
+            "chicken"
         ],
         "index": 15
     },
@@ -22337,7 +22685,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "pork chop"
+            "pork",
+            "chop"
         ],
         "index": 17
     },
@@ -22372,7 +22721,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "noodle dishes"
+            "noodle",
+            "dishes"
         ],
         "index": 20
     },
@@ -22392,7 +22742,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Indian food"
+            "Indian",
+            "food"
         ],
         "index": 4
     },
@@ -22452,7 +22803,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "corner booth table"
+            "corner",
+            "booth",
+            "table"
         ],
         "index": 10
     },
@@ -22538,7 +22891,10 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "open faced cheese sandwich"
+            "open",
+            "faced",
+            "cheese",
+            "sandwich"
         ],
         "index": 4
     },
@@ -22621,7 +22977,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "half-price Saturday night option"
+            "half-price",
+            "Saturday",
+            "night",
+            "option"
         ],
         "index": 5
     },
@@ -22653,7 +23012,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "homemade pasta"
+            "homemade",
+            "pasta"
         ],
         "index": 5
     },
@@ -22675,7 +23035,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "value ofr money"
+            "value",
+            "ofr",
+            "money"
         ],
         "index": 10
     },
@@ -22801,7 +23163,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "beginning appetizers"
+            "beginning",
+            "appetizers"
         ],
         "index": 1
     },
@@ -22865,7 +23228,12 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "chocolate souffle with rasberry mint sorbet"
+            "chocolate",
+            "souffle",
+            "with",
+            "rasberry",
+            "mint",
+            "sorbet"
         ],
         "index": 10
     },
@@ -22910,7 +23278,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Japanese Tapas"
+            "Japanese",
+            "Tapas"
         ],
         "index": 2
     },
@@ -23064,7 +23433,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lamb sausages"
+            "lamb",
+            "sausages"
         ],
         "index": 11
     },
@@ -23105,7 +23475,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sardines with biscuits"
+            "sardines",
+            "with",
+            "biscuits"
         ],
         "index": 13
     },
@@ -23146,7 +23518,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "large whole shrimp"
+            "large",
+            "whole",
+            "shrimp"
         ],
         "index": 16
     },
@@ -23187,7 +23561,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pistachio ice cream"
+            "pistachio",
+            "ice",
+            "cream"
         ],
         "index": 22
     },
@@ -23524,7 +23900,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "thai food"
+            "thai",
+            "food"
         ],
         "index": 22
     },
@@ -23664,7 +24041,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fresh tomatoes"
+            "fresh",
+            "tomatoes"
         ],
         "index": 11
     },
@@ -23690,7 +24068,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sauce on the pizza"
+            "sauce",
+            "on",
+            "the",
+            "pizza"
         ],
         "index": 1
     },
@@ -23722,7 +24103,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "outdoor seating"
+            "outdoor",
+            "seating"
         ],
         "index": 13
     },
@@ -23794,7 +24176,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "ice cream"
+            "ice",
+            "cream"
         ],
         "index": 7
     },
@@ -23955,7 +24338,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "bistro fare"
+            "bistro",
+            "fare"
         ],
         "index": 6
     },
@@ -24015,7 +24399,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "jazz brunch"
+            "jazz",
+            "brunch"
         ],
         "index": 11
     },
@@ -24045,7 +24430,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "live jazz"
+            "live",
+            "jazz"
         ],
         "index": 15
     },
@@ -24116,7 +24502,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "measures of liquers"
+            "measures",
+            "of",
+            "liquers"
         ],
         "index": 11
     },
@@ -24150,7 +24538,8 @@
         ],
         "polarity": "conflict",
         "aspect_term": [
-            "table service"
+            "table",
+            "service"
         ],
         "index": 1
     },
@@ -24207,7 +24596,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "thai food"
+            "thai",
+            "food"
         ],
         "index": 6
     },
@@ -24297,7 +24687,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "pork belly"
+            "pork",
+            "belly"
         ],
         "index": 17
     },
@@ -24543,7 +24934,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lamb chop"
+            "lamb",
+            "chop"
         ],
         "index": 4
     },
@@ -24636,7 +25028,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "extra virgnin olive oil"
+            "extra",
+            "virgnin",
+            "olive",
+            "oil"
         ],
         "index": 18
     },
@@ -24786,7 +25181,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Pastrami sandwich"
+            "Pastrami",
+            "sandwich"
         ],
         "index": 1
     },
@@ -24889,7 +25285,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "plain pizza"
+            "plain",
+            "pizza"
         ],
         "index": 1
     },
@@ -24928,7 +25325,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "truffle oil"
+            "truffle",
+            "oil"
         ],
         "index": 17
     },
@@ -24967,7 +25365,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wild mushroom(third generation-Fornini) pizza"
+            "wild",
+            "mushroom(third",
+            "generation-Fornini)",
+            "pizza"
         ],
         "index": 8
     },
@@ -25141,7 +25542,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Sushi fix"
+            "Sushi",
+            "fix"
         ],
         "index": 4
     },
@@ -25196,7 +25598,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "reservation sigh"
+            "reservation",
+            "sigh"
         ],
         "index": 25
     },
@@ -25344,7 +25747,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "food art"
+            "food",
+            "art"
         ],
         "index": 17
     },
@@ -25378,7 +25782,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "outdoor atmosphere"
+            "outdoor",
+            "atmosphere"
         ],
         "index": 1
     },
@@ -25538,7 +25943,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Thai food"
+            "Thai",
+            "food"
         ],
         "index": 9
     },
@@ -25600,7 +26006,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "scallion pancakes"
+            "scallion",
+            "pancakes"
         ],
         "index": 1
     },
@@ -25621,7 +26028,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "fried dumplings"
+            "fried",
+            "dumplings"
         ],
         "index": 4
     },
@@ -26208,7 +26616,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "fondue appetizer"
+            "fondue",
+            "appetizer"
         ],
         "index": 7
     },
@@ -26242,7 +26651,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Octopus salad"
+            "Octopus",
+            "salad"
         ],
         "index": 7
     },
@@ -26290,7 +26700,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "MSG cooking"
+            "MSG",
+            "cooking"
         ],
         "index": 10
     },
@@ -26306,7 +26717,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Tom Kha soup"
+            "Tom",
+            "Kha",
+            "soup"
         ],
         "index": 2
     },
@@ -26328,7 +26741,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Bombay beer"
+            "Bombay",
+            "beer"
         ],
         "index": 5
     },
@@ -26394,7 +26808,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dining hall"
+            "dining",
+            "hall"
         ],
         "index": 16
     },
@@ -26427,7 +26842,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "semi-private boths"
+            "semi-private",
+            "boths"
         ],
         "index": 8
     },
@@ -26471,7 +26887,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "office lunch"
+            "office",
+            "lunch"
         ],
         "index": 4
     },
@@ -26499,7 +26916,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sweet lassi"
+            "sweet",
+            "lassi"
         ],
         "index": 1
     },
@@ -26527,7 +26945,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lamb chettinad"
+            "lamb",
+            "chettinad"
         ],
         "index": 8
     },
@@ -26555,7 +26974,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "garlic naan"
+            "garlic",
+            "naan"
         ],
         "index": 12
     },
@@ -26619,7 +27039,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "bistro fare"
+            "bistro",
+            "fare"
         ],
         "index": 19
     },
@@ -26728,7 +27149,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "spicy tuna"
+            "spicy",
+            "tuna"
         ],
         "index": 1
     },
@@ -26914,7 +27336,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "quality value"
+            "quality",
+            "value"
         ],
         "index": 9
     },
@@ -26938,7 +27361,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Meat dishes"
+            "Meat",
+            "dishes"
         ],
         "index": 0
     },
@@ -26962,7 +27386,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "vegetarian-friendly choices"
+            "vegetarian-friendly",
+            "choices"
         ],
         "index": 13
     },
@@ -27005,7 +27430,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "amuse bouche"
+            "amuse",
+            "bouche"
         ],
         "index": 9
     },
@@ -27119,7 +27545,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "crunchy tuna"
+            "crunchy",
+            "tuna"
         ],
         "index": 2
     },
@@ -27194,7 +27621,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "live entertainment"
+            "live",
+            "entertainment"
         ],
         "index": 7
     },
@@ -27220,7 +27648,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "special effects"
+            "special",
+            "effects"
         ],
         "index": 15
     },
@@ -27297,7 +27726,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "fountain drinks"
+            "fountain",
+            "drinks"
         ],
         "index": 3
     },
@@ -27353,7 +27783,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Steak Tartare"
+            "Steak",
+            "Tartare"
         ],
         "index": 1
     },
@@ -27392,7 +27823,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Crab Croquette apt"
+            "Crab",
+            "Croquette",
+            "apt"
         ],
         "index": 10
     },
@@ -27450,7 +27883,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "house wine"
+            "house",
+            "wine"
         ],
         "index": 5
     },
@@ -27499,7 +27933,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "dim sum servings"
+            "dim",
+            "sum",
+            "servings"
         ],
         "index": 1
     },
@@ -27619,7 +28055,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "glass front"
+            "glass",
+            "front"
         ],
         "index": 22
     },
@@ -27688,7 +28125,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Barbecued codfish"
+            "Barbecued",
+            "codfish"
         ],
         "index": 0
     },
@@ -27835,7 +28273,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "spice rub"
+            "spice",
+            "rub"
         ],
         "index": 23
     },
@@ -27884,7 +28323,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "herb mix"
+            "herb",
+            "mix"
         ],
         "index": 29
     },
@@ -27961,7 +28401,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dance floor"
+            "dance",
+            "floor"
         ],
         "index": 8
     },
@@ -28220,7 +28661,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "in sandwiches"
+            "in",
+            "sandwiches"
         ],
         "index": 11
     },
@@ -28556,7 +28998,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "American Chinese food"
+            "American",
+            "Chinese",
+            "food"
         ],
         "index": 9
     },
@@ -28608,7 +29052,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "beef carpaachio"
+            "beef",
+            "carpaachio"
         ],
         "index": 5
     },
@@ -28711,7 +29156,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Italian food"
+            "Italian",
+            "food"
         ],
         "index": 1
     },
@@ -28738,7 +29184,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Italian food"
+            "Italian",
+            "food"
         ],
         "index": 16
     },
@@ -28885,7 +29332,10 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "trays of Dim Sum"
+            "trays",
+            "of",
+            "Dim",
+            "Sum"
         ],
         "index": 6
     },
@@ -29299,7 +29749,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "price rang"
+            "price",
+            "rang"
         ],
         "index": 17
     },
@@ -29459,7 +29910,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "whole grilled fish"
+            "whole",
+            "grilled",
+            "fish"
         ],
         "index": 6
     },
@@ -29490,7 +29943,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "tuna tartare"
+            "tuna",
+            "tartare"
         ],
         "index": 3
     },
@@ -29552,7 +30006,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "mushroom ravioli"
+            "mushroom",
+            "ravioli"
         ],
         "index": 7
     },
@@ -29583,7 +30038,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pinot noir"
+            "pinot",
+            "noir"
         ],
         "index": 10
     },
@@ -29614,7 +30070,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "chocolate sampler"
+            "chocolate",
+            "sampler"
         ],
         "index": 14
     },
@@ -29645,7 +30102,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dessert wine"
+            "dessert",
+            "wine"
         ],
         "index": 18
     },
@@ -30173,7 +30631,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "indian cuisine"
+            "indian",
+            "cuisine"
         ],
         "index": 12
     },
@@ -30196,7 +30655,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pasta dish"
+            "pasta",
+            "dish"
         ],
         "index": 5
     },
@@ -30318,7 +30778,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "glass of wine"
+            "glass",
+            "of",
+            "wine"
         ],
         "index": 17
     },
@@ -30351,7 +30813,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "main course"
+            "main",
+            "course"
         ],
         "index": 22
     },
@@ -30432,7 +30895,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Thai food"
+            "Thai",
+            "food"
         ],
         "index": 7
     },
@@ -30502,7 +30966,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "hosting staff"
+            "hosting",
+            "staff"
         ],
         "index": 11
     },
@@ -30812,7 +31277,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "noodle and rices dishes"
+            "noodle",
+            "and",
+            "rices",
+            "dishes"
         ],
         "index": 1
     },
@@ -30993,7 +31461,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fried clams"
+            "fried",
+            "clams"
         ],
         "index": 2
     },
@@ -31034,7 +31503,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lunch menu"
+            "lunch",
+            "menu"
         ],
         "index": 4
     },
@@ -31203,7 +31673,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "shrimp scampi"
+            "shrimp",
+            "scampi"
         ],
         "index": 1
     },
@@ -31351,7 +31822,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dim sum combo"
+            "dim",
+            "sum",
+            "combo"
         ],
         "index": 5
     },
@@ -31528,7 +32001,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Roast Chicken"
+            "Roast",
+            "Chicken"
         ],
         "index": 17
     },
@@ -31600,7 +32074,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "insde table"
+            "insde",
+            "table"
         ],
         "index": 22
     },
@@ -31668,7 +32143,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "chicken vindaloo"
+            "chicken",
+            "vindaloo"
         ],
         "index": 7
     },
@@ -31686,7 +32162,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "spicy food"
+            "spicy",
+            "food"
         ],
         "index": 3
     },
@@ -31713,7 +32190,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lunch specials"
+            "lunch",
+            "specials"
         ],
         "index": 16
     },
@@ -31743,7 +32221,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "bar food"
+            "bar",
+            "food"
         ],
         "index": 6
     },
@@ -31803,7 +32282,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "hand-crafted beers"
+            "hand-crafted",
+            "beers"
         ],
         "index": 19
     },
@@ -32005,7 +32485,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "back garden"
+            "back",
+            "garden"
         ],
         "index": 4
     },
@@ -32038,7 +32519,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "outdoor seatin"
+            "outdoor",
+            "seatin"
         ],
         "index": 15
     },
@@ -32302,7 +32784,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "quality of food"
+            "quality",
+            "of",
+            "food"
         ],
         "index": 8
     },
@@ -32356,7 +32840,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "mushroom pizza"
+            "mushroom",
+            "pizza"
         ],
         "index": 4
     },
@@ -32409,7 +32894,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "cod with paella"
+            "cod",
+            "with",
+            "paella"
         ],
         "index": 3
     },
@@ -32462,7 +32949,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "fish and chips"
+            "fish",
+            "and",
+            "chips"
         ],
         "index": 25
     },
@@ -32713,7 +33202,10 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "porcini mushroom pasta special"
+            "porcini",
+            "mushroom",
+            "pasta",
+            "special"
         ],
         "index": 1
     },
@@ -32734,7 +33226,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "seafood tagliatelle"
+            "seafood",
+            "tagliatelle"
         ],
         "index": 10
     },
@@ -32752,7 +33245,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "spicy wontons"
+            "spicy",
+            "wontons"
         ],
         "index": 2
     },
@@ -32770,7 +33264,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "salt pepper shrimps"
+            "salt",
+            "pepper",
+            "shrimps"
         ],
         "index": 6
     },
@@ -32785,7 +33281,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "FOOD PORTIONS"
+            "FOOD",
+            "PORTIONS"
         ],
         "index": 1
     },
@@ -32838,7 +33335,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "bar service"
+            "bar",
+            "service"
         ],
         "index": 9
     },
@@ -32852,7 +33350,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Taiwanese food"
+            "Taiwanese",
+            "food"
         ],
         "index": 1
     },
@@ -32930,7 +33429,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "homemade lasagna"
+            "homemade",
+            "lasagna"
         ],
         "index": 7
     },
@@ -32961,7 +33461,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "dessert menu"
+            "dessert",
+            "menu"
         ],
         "index": 8
     },
@@ -33115,7 +33616,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "in-house lady DJ"
+            "in-house",
+            "lady",
+            "DJ"
         ],
         "index": 1
     },
@@ -33152,7 +33655,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 1
     },
@@ -33188,7 +33692,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "hot dogs"
+            "hot",
+            "dogs"
         ],
         "index": 1
     },
@@ -33248,7 +33753,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Beef noodle soup"
+            "Beef",
+            "noodle",
+            "soup"
         ],
         "index": 0
     },
@@ -33262,7 +33769,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Delivery service"
+            "Delivery",
+            "service"
         ],
         "index": 0
     },
@@ -33310,7 +33818,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Thai cuisine"
+            "Thai",
+            "cuisine"
         ],
         "index": 13
     },
@@ -33557,7 +34066,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "shredded cheese"
+            "shredded",
+            "cheese"
         ],
         "index": 3
     },
@@ -33671,7 +34181,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "root vegetables"
+            "root",
+            "vegetables"
         ],
         "index": 6
     },
@@ -33699,7 +34210,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "mushroom consomme"
+            "mushroom",
+            "consomme"
         ],
         "index": 10
     },
@@ -33950,7 +34462,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "wait staff"
+            "wait",
+            "staff"
         ],
         "index": 22
     },
@@ -33971,7 +34484,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Shabu-Shabu dinner"
+            "Shabu-Shabu",
+            "dinner"
         ],
         "index": 4
     },
@@ -34212,7 +34726,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "wait staff"
+            "wait",
+            "staff"
         ],
         "index": 14
     },
@@ -34807,7 +35322,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "bar scene"
+            "bar",
+            "scene"
         ],
         "index": 16
     },
@@ -35388,7 +35904,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sea urchin"
+            "sea",
+            "urchin"
         ],
         "index": 9
     },
@@ -35586,7 +36103,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "mix of greens"
+            "mix",
+            "of",
+            "greens"
         ],
         "index": 14
     },
@@ -35750,7 +36269,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "General Tao chicken"
+            "General",
+            "Tao",
+            "chicken"
         ],
         "index": 6
     },
@@ -35774,7 +36295,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Chinese food"
+            "Chinese",
+            "food"
         ],
         "index": 3
     },
@@ -35789,7 +36311,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "shrimp appetizers"
+            "shrimp",
+            "appetizers"
         ],
         "index": 4
     },
@@ -35918,7 +36441,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "food portions"
+            "food",
+            "portions"
         ],
         "index": 6
     },
@@ -36032,7 +36556,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "cold appetizer dishes"
+            "cold",
+            "appetizer",
+            "dishes"
         ],
         "index": 1
     },
@@ -36232,7 +36758,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "parmesean porcini souffle"
+            "parmesean",
+            "porcini",
+            "souffle"
         ],
         "index": 3
     },
@@ -36265,7 +36793,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lamb glazed with balsamic vinegar"
+            "lamb",
+            "glazed",
+            "with",
+            "balsamic",
+            "vinegar"
         ],
         "index": 8
     },
@@ -36301,7 +36833,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "'gourmet' Indian cuisine"
+            "'gourmet'",
+            "Indian",
+            "cuisine"
         ],
         "index": 6
     },
@@ -36390,7 +36924,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "corned beef sandwich"
+            "corned",
+            "beef",
+            "sandwich"
         ],
         "index": 11
     },
@@ -36537,7 +37073,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "olive cream cheese"
+            "olive",
+            "cream",
+            "cheese"
         ],
         "index": 2
     },
@@ -36561,7 +37099,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lox spread"
+            "lox",
+            "spread"
         ],
         "index": 7
     },
@@ -36754,7 +37293,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "rice to fish ration"
+            "rice",
+            "to",
+            "fish",
+            "ration"
         ],
         "index": 1
     },
@@ -36792,7 +37334,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "shredded cheese"
+            "shredded",
+            "cheese"
         ],
         "index": 2
     },
@@ -36840,7 +37383,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "selecion of wines"
+            "selecion",
+            "of",
+            "wines"
         ],
         "index": 9
     },
@@ -36886,7 +37431,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wait staff"
+            "wait",
+            "staff"
         ],
         "index": 5
     },
@@ -36903,7 +37449,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Godmother pizza"
+            "Godmother",
+            "pizza"
         ],
         "index": 4
     },
@@ -36947,7 +37494,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "thai cuisine"
+            "thai",
+            "cuisine"
         ],
         "index": 12
     },
@@ -37077,7 +37625,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "crab cocktail"
+            "crab",
+            "cocktail"
         ],
         "index": 3
     },
@@ -37108,7 +37657,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "lime juice concoction"
+            "lime",
+            "juice",
+            "concoction"
         ],
         "index": 11
     },
@@ -37171,7 +37722,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "menu items"
+            "menu",
+            "items"
         ],
         "index": 11
     },
@@ -37310,7 +37862,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "corned beef"
+            "corned",
+            "beef"
         ],
         "index": 1
     },
@@ -37327,7 +37880,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Chicken pad tai"
+            "Chicken",
+            "pad",
+            "tai"
         ],
         "index": 2
     },
@@ -37481,7 +38036,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "outdoor seating"
+            "outdoor",
+            "seating"
         ],
         "index": 8
     },
@@ -37669,7 +38225,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "turkey burger"
+            "turkey",
+            "burger"
         ],
         "index": 1
     },
@@ -37810,7 +38367,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Chinese food"
+            "Chinese",
+            "food"
         ],
         "index": 4
     },
@@ -37892,7 +38450,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Thai food"
+            "Thai",
+            "food"
         ],
         "index": 12
     },
@@ -38121,7 +38680,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "crispy chicken"
+            "crispy",
+            "chicken"
         ],
         "index": 1
     },
@@ -38189,7 +38749,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "caprese salad"
+            "caprese",
+            "salad"
         ],
         "index": 5
     },
@@ -38217,7 +38778,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "beans on toast"
+            "beans",
+            "on",
+            "toast"
         ],
         "index": 9
     },
@@ -38502,7 +39065,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pita bread"
+            "pita",
+            "bread"
         ],
         "index": 14
     },
@@ -38717,7 +39281,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Dim Sum"
+            "Dim",
+            "Sum"
         ],
         "index": 6
     },
@@ -38944,7 +39509,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fried rice"
+            "fried",
+            "rice"
         ],
         "index": 1
     },
@@ -39037,7 +39603,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "menu selections"
+            "menu",
+            "selections"
         ],
         "index": 20
     },
@@ -39051,7 +39618,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "dining experience"
+            "dining",
+            "experience"
         ],
         "index": 2
     },
@@ -39115,7 +39683,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "front doors"
+            "front",
+            "doors"
         ],
         "index": 13
     },
@@ -39156,7 +39725,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "back garden sitting area"
+            "back",
+            "garden",
+            "sitting",
+            "area"
         ],
         "index": 1
     },
@@ -39181,7 +39753,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "personal herb garden"
+            "personal",
+            "herb",
+            "garden"
         ],
         "index": 13
     },
@@ -39220,7 +39794,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "pastrami sandwiches"
+            "pastrami",
+            "sandwiches"
         ],
         "index": 16
     },
@@ -39259,7 +39834,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Mexican food"
+            "Mexican",
+            "food"
         ],
         "index": 22
     },
@@ -39301,7 +39877,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "wine selection"
+            "wine",
+            "selection"
         ],
         "index": 7
     },
@@ -39341,7 +39918,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "house salad"
+            "house",
+            "salad"
         ],
         "index": 5
     },
@@ -39447,7 +40025,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "glass of water"
+            "glass",
+            "of",
+            "water"
         ],
         "index": 19
     },
@@ -39467,7 +40047,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "french food"
+            "french",
+            "food"
         ],
         "index": 6
     },
@@ -39496,7 +40077,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "live music"
+            "live",
+            "music"
         ],
         "index": 8
     },
@@ -39554,7 +40136,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "jazz nights"
+            "jazz",
+            "nights"
         ],
         "index": 12
     },
@@ -39714,7 +40297,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "lemon salad"
+            "lemon",
+            "salad"
         ],
         "index": 5
     },
@@ -39783,7 +40367,8 @@
         ],
         "polarity": "conflict",
         "aspect_term": [
-            "Pad thai"
+            "Pad",
+            "thai"
         ],
         "index": 1
     },
@@ -39817,7 +40402,8 @@
         ],
         "polarity": "conflict",
         "aspect_term": [
-            "lad nar"
+            "lad",
+            "nar"
         ],
         "index": 3
     },
@@ -39919,7 +40505,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "thai food"
+            "thai",
+            "food"
         ],
         "index": 18
     },
@@ -40009,7 +40596,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "front door"
+            "front",
+            "door"
         ],
         "index": 19
     },
@@ -40034,7 +40622,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Guizhou chicken"
+            "Guizhou",
+            "chicken"
         ],
         "index": 2
     },
@@ -40059,7 +40648,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fish with hot bean source"
+            "fish",
+            "with",
+            "hot",
+            "bean",
+            "source"
         ],
         "index": 4
     },
@@ -40084,7 +40677,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fish fillet in spicy source"
+            "fish",
+            "fillet",
+            "in",
+            "spicy",
+            "source"
         ],
         "index": 9
     },
@@ -40109,7 +40706,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "special menu"
+            "special",
+            "menu"
         ],
         "index": 14
     },
@@ -40165,7 +40763,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "open kitchen"
+            "open",
+            "kitchen"
         ],
         "index": 11
     },
@@ -40303,7 +40902,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "samosa chaats"
+            "samosa",
+            "chaats"
         ],
         "index": 13
     },
@@ -40334,7 +40934,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "indian appetizers"
+            "indian",
+            "appetizers"
         ],
         "index": 20
     },
@@ -40365,7 +40966,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "bombay style chaat"
+            "bombay",
+            "style",
+            "chaat"
         ],
         "index": 5
     },
@@ -40383,7 +40986,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Singapore Mai Fun"
+            "Singapore",
+            "Mai",
+            "Fun"
         ],
         "index": 1
     },
@@ -40401,7 +41006,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "curry flavor"
+            "curry",
+            "flavor"
         ],
         "index": 6
     },
@@ -40440,7 +41046,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 1
     },
@@ -40480,7 +41087,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "dinner location"
+            "dinner",
+            "location"
         ],
         "index": 9
     },
@@ -40501,7 +41109,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Indian restaurant food"
+            "Indian",
+            "restaurant",
+            "food"
         ],
         "index": 7
     },
@@ -40518,7 +41128,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "AT MOSHPHERE"
+            "AT",
+            "MOSHPHERE"
         ],
         "index": 1
     },
@@ -40560,7 +41171,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Thai food"
+            "Thai",
+            "food"
         ],
         "index": 1
     },
@@ -40730,7 +41342,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sea bass"
+            "sea",
+            "bass"
         ],
         "index": 2
     },
@@ -40820,7 +41433,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sushi places"
+            "sushi",
+            "places"
         ],
         "index": 26
     },
@@ -40981,7 +41595,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "round of drinks"
+            "round",
+            "of",
+            "drinks"
         ],
         "index": 16
     },
@@ -41068,7 +41684,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "menu choices"
+            "menu",
+            "choices"
         ],
         "index": 1
     },
@@ -41254,7 +41871,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "main courses"
+            "main",
+            "courses"
         ],
         "index": 7
     },
@@ -41295,7 +41913,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "exotic food"
+            "exotic",
+            "food"
         ],
         "index": 1
     },
@@ -41361,7 +41980,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "mediterranean salad"
+            "mediterranean",
+            "salad"
         ],
         "index": 2
     },
@@ -41396,7 +42016,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "cream cheeses"
+            "cream",
+            "cheeses"
         ],
         "index": 1
     },
@@ -41529,7 +42150,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "beef version"
+            "beef",
+            "version"
         ],
         "index": 7
     },
@@ -41618,7 +42240,13 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "club soda, filled with ice, no lime"
+            "club",
+            "soda,",
+            "filled",
+            "with",
+            "ice,",
+            "no",
+            "lime"
         ],
         "index": 1
     },
@@ -41687,7 +42315,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "house varities"
+            "house",
+            "varities"
         ],
         "index": 8
     },
@@ -41767,7 +42396,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pudding dessert"
+            "pudding",
+            "dessert"
         ],
         "index": 4
     },
@@ -41787,7 +42417,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "vegetable samosa"
+            "vegetable",
+            "samosa"
         ],
         "index": 4
     },
@@ -41807,7 +42438,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "malai tikka wrap"
+            "malai",
+            "tikka",
+            "wrap"
         ],
         "index": 8
     },
@@ -41882,7 +42515,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine selection"
+            "wine",
+            "selection"
         ],
         "index": 1
     },
@@ -42009,7 +42643,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "goat cheese"
+            "goat",
+            "cheese"
         ],
         "index": 9
     },
@@ -42169,7 +42804,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "kinds of beer"
+            "kinds",
+            "of",
+            "beer"
         ],
         "index": 12
     },
@@ -42334,7 +42971,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "turnip soup with pureed basil"
+            "turnip",
+            "soup",
+            "with",
+            "pureed",
+            "basil"
         ],
         "index": 22
     },
@@ -42442,7 +43083,12 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Thai spiced curry noodles with shrimp"
+            "Thai",
+            "spiced",
+            "curry",
+            "noodles",
+            "with",
+            "shrimp"
         ],
         "index": 6
     },
@@ -42651,7 +43297,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "main cours"
+            "main",
+            "cours"
         ],
         "index": 11
     },
@@ -42754,7 +43401,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "food suggestions"
+            "food",
+            "suggestions"
         ],
         "index": 5
     },
@@ -42972,7 +43620,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "back garden"
+            "back",
+            "garden"
         ],
         "index": 12
     },
@@ -43023,7 +43672,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Japanese food"
+            "Japanese",
+            "food"
         ],
         "index": 3
     },
@@ -43113,7 +43763,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "price category"
+            "price",
+            "category"
         ],
         "index": 12
     },
@@ -43276,7 +43927,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "specials menus"
+            "specials",
+            "menus"
         ],
         "index": 3
     },
@@ -43347,7 +43999,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "scallop roll"
+            "scallop",
+            "roll"
         ],
         "index": 4
     },
@@ -43370,7 +44023,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sesame chicken"
+            "sesame",
+            "chicken"
         ],
         "index": 12
     },
@@ -43439,7 +44093,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "nori-wrapped tuna"
+            "nori-wrapped",
+            "tuna"
         ],
         "index": 3
     },
@@ -43544,7 +44199,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "fast food"
+            "fast",
+            "food"
         ],
         "index": 4
     },
@@ -43624,7 +44280,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "all you can eat deal"
+            "all",
+            "you",
+            "can",
+            "eat",
+            "deal"
         ],
         "index": 1
     },
@@ -43747,7 +44407,11 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "meat patties in steamed buns"
+            "meat",
+            "patties",
+            "in",
+            "steamed",
+            "buns"
         ],
         "index": 9
     },
@@ -43917,7 +44581,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dining room"
+            "dining",
+            "room"
         ],
         "index": 1
     },
@@ -44091,7 +44756,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "variety of dishes"
+            "variety",
+            "of",
+            "dishes"
         ],
         "index": 7
     },
@@ -44141,7 +44808,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "white bean brushetta"
+            "white",
+            "bean",
+            "brushetta"
         ],
         "index": 1
     },
@@ -44258,7 +44927,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lay out"
+            "lay",
+            "out"
         ],
         "index": 3
     },
@@ -44304,7 +44974,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "cart attendant"
+            "cart",
+            "attendant"
         ],
         "index": 3
     },
@@ -44333,7 +45004,10 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "lotus leaf wrapped rice"
+            "lotus",
+            "leaf",
+            "wrapped",
+            "rice"
         ],
         "index": 7
     },
@@ -44410,7 +45084,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wait staff"
+            "wait",
+            "staff"
         ],
         "index": 1
     },
@@ -44843,7 +45518,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sashimi plate"
+            "sashimi",
+            "plate"
         ],
         "index": 6
     },
@@ -45092,7 +45768,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "chicken dish"
+            "chicken",
+            "dish"
         ],
         "index": 4
     },
@@ -45300,7 +45977,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "prix fixe lunch"
+            "prix",
+            "fixe",
+            "lunch"
         ],
         "index": 3
     },
@@ -45477,7 +46156,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "hot bagel"
+            "hot",
+            "bagel"
         ],
         "index": 5
     },
@@ -45564,7 +46244,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "pepper powder"
+            "pepper",
+            "powder"
         ],
         "index": 10
     },
@@ -45794,7 +46475,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "glass of Sangria"
+            "glass",
+            "of",
+            "Sangria"
         ],
         "index": 6
     },
@@ -45813,7 +46496,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "table by the window"
+            "table",
+            "by",
+            "the",
+            "window"
         ],
         "index": 6
     },
@@ -46097,7 +46783,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "pad see ew"
+            "pad",
+            "see",
+            "ew"
         ],
         "index": 2
     },
@@ -46155,7 +46843,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "back patio"
+            "back",
+            "patio"
         ],
         "index": 5
     },
@@ -46237,7 +46926,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Guacamole+shrimp appetizer"
+            "Guacamole+shrimp",
+            "appetizer"
         ],
         "index": 0
     },
@@ -46370,7 +47060,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lunch special"
+            "lunch",
+            "special"
         ],
         "index": 1
     },
@@ -46448,7 +47139,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "The chicken pot pie"
+            "The",
+            "chicken",
+            "pot",
+            "pie"
         ],
         "index": 0
     },
@@ -46790,7 +47484,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "spicy ethnic foods"
+            "spicy",
+            "ethnic",
+            "foods"
         ],
         "index": 4
     },
@@ -46867,7 +47563,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "quality of food"
+            "quality",
+            "of",
+            "food"
         ],
         "index": 1
     },
@@ -46894,7 +47592,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "live jazz"
+            "live",
+            "jazz"
         ],
         "index": 10
     },
@@ -46934,7 +47633,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "SEASONAL beer"
+            "SEASONAL",
+            "beer"
         ],
         "index": 6
     },
@@ -47208,7 +47908,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "clams oreganta"
+            "clams",
+            "oreganta"
         ],
         "index": 2
     },
@@ -47236,7 +47937,19 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "salad with perfectly marinated cucumbers and tomatoes with lots of shrimp and basil"
+            "salad",
+            "with",
+            "perfectly",
+            "marinated",
+            "cucumbers",
+            "and",
+            "tomatoes",
+            "with",
+            "lots",
+            "of",
+            "shrimp",
+            "and",
+            "basil"
         ],
         "index": 6
     },
@@ -47329,7 +48042,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "lentil dish"
+            "lentil",
+            "dish"
         ],
         "index": 10
     },
@@ -47360,7 +48074,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "basmati rice dish"
+            "basmati",
+            "rice",
+            "dish"
         ],
         "index": 17
     },
@@ -47434,7 +48150,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "cigar bar"
+            "cigar",
+            "bar"
         ],
         "index": 4
     },
@@ -47641,7 +48358,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Fluke sashimi"
+            "Fluke",
+            "sashimi"
         ],
         "index": 0
     },
@@ -47667,7 +48385,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "jalapeno-lime olive oil"
+            "jalapeno-lime",
+            "olive",
+            "oil"
         ],
         "index": 4
     },
@@ -47693,7 +48413,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fruit of the oil"
+            "fruit",
+            "of",
+            "the",
+            "oil"
         ],
         "index": 8
     },
@@ -47813,7 +48536,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "steak au poivre"
+            "steak",
+            "au",
+            "poivre"
         ],
         "index": 1
     },
@@ -47978,7 +48703,16 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "donut like deep fried dough they call Ow Ley Soh"
+            "donut",
+            "like",
+            "deep",
+            "fried",
+            "dough",
+            "they",
+            "call",
+            "Ow",
+            "Ley",
+            "Soh"
         ],
         "index": 5
     },
@@ -48256,7 +48990,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "ethnic food"
+            "ethnic",
+            "food"
         ],
         "index": 21
     },
@@ -48525,7 +49260,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sushi rolls"
+            "sushi",
+            "rolls"
         ],
         "index": 7
     },
@@ -48571,7 +49307,10 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "dinner menu to sit"
+            "dinner",
+            "menu",
+            "to",
+            "sit"
         ],
         "index": 4
     },
@@ -48594,7 +49333,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "take ou"
+            "take",
+            "ou"
         ],
         "index": 9
     },
@@ -48727,7 +49467,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Scallion Pancake"
+            "Scallion",
+            "Pancake"
         ],
         "index": 4
     },
@@ -48791,7 +49532,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "vegetable juice"
+            "vegetable",
+            "juice"
         ],
         "index": 8
     },
@@ -48855,7 +49597,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Guizhou Chicken"
+            "Guizhou",
+            "Chicken"
         ],
         "index": 15
     },
@@ -48919,7 +49662,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Shredded Squid Family Style"
+            "Shredded",
+            "Squid",
+            "Family",
+            "Style"
         ],
         "index": 18
     },
@@ -48983,7 +49729,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Sichuan Spicy Soft Shell Crab"
+            "Sichuan",
+            "Spicy",
+            "Soft",
+            "Shell",
+            "Crab"
         ],
         "index": 28
     },
@@ -49047,7 +49797,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Shuizhu Fish"
+            "Shuizhu",
+            "Fish"
         ],
         "index": 34
     },
@@ -49111,7 +49862,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Sichuan food"
+            "Sichuan",
+            "food"
         ],
         "index": 41
     },
@@ -49135,7 +49887,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "spinach mushroom calzone"
+            "spinach",
+            "mushroom",
+            "calzone"
         ],
         "index": 12
     },
@@ -49159,7 +49913,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "canned vegetables"
+            "canned",
+            "vegetables"
         ],
         "index": 8
     },
@@ -49209,7 +49964,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Blue Point oysters"
+            "Blue",
+            "Point",
+            "oysters"
         ],
         "index": 7
     },
@@ -49265,7 +50022,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "glass of wine"
+            "glass",
+            "of",
+            "wine"
         ],
         "index": 14
     },
@@ -49289,7 +50048,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "noodle dishes"
+            "noodle",
+            "dishes"
         ],
         "index": 4
     },
@@ -49313,7 +50073,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Green Curry dish"
+            "Green",
+            "Curry",
+            "dish"
         ],
         "index": 12
     },
@@ -49456,7 +50218,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "spicy tuna roll"
+            "spicy",
+            "tuna",
+            "roll"
         ],
         "index": 1
     },
@@ -49483,7 +50247,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "rock shrimp tempura"
+            "rock",
+            "shrimp",
+            "tempura"
         ],
         "index": 9
     },
@@ -49701,7 +50467,15 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "White Chocolate Bread Pudding with Gelato and hot chocolate"
+            "White",
+            "Chocolate",
+            "Bread",
+            "Pudding",
+            "with",
+            "Gelato",
+            "and",
+            "hot",
+            "chocolate"
         ],
         "index": 14
     },
@@ -49751,7 +50525,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "banana tower"
+            "banana",
+            "tower"
         ],
         "index": 1
     },
@@ -50121,7 +50896,10 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "icing on the cake"
+            "icing",
+            "on",
+            "the",
+            "cake"
         ],
         "index": 4
     },
@@ -50199,7 +50977,8 @@
         ],
         "polarity": "conflict",
         "aspect_term": [
-            "Wine list"
+            "Wine",
+            "list"
         ],
         "index": 0
     },
@@ -50342,7 +51121,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "french cuisine"
+            "french",
+            "cuisine"
         ],
         "index": 2
     },
@@ -50410,7 +51190,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "vegetarian entree"
+            "vegetarian",
+            "entree"
         ],
         "index": 2
     },
@@ -50445,7 +51226,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Abby's treasure"
+            "Abby's",
+            "treasure"
         ],
         "index": 4
     },
@@ -50515,7 +51297,12 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "assortment of fresh mushrooms and vegetables"
+            "assortment",
+            "of",
+            "fresh",
+            "mushrooms",
+            "and",
+            "vegetables"
         ],
         "index": 20
     },
@@ -50600,7 +51387,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Steak au Poivre"
+            "Steak",
+            "au",
+            "Poivre"
         ],
         "index": 10
     },
@@ -50812,7 +51601,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "spinach and corn dumplings"
+            "spinach",
+            "and",
+            "corn",
+            "dumplings"
         ],
         "index": 2
     },
@@ -50902,7 +51694,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "massamman curry"
+            "massamman",
+            "curry"
         ],
         "index": 7
     },
@@ -51007,7 +51800,11 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "chow fun and chow see"
+            "chow",
+            "fun",
+            "and",
+            "chow",
+            "see"
         ],
         "index": 1
     },
@@ -51223,7 +52020,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "grilled cheese"
+            "grilled",
+            "cheese"
         ],
         "index": 1
     },
@@ -51833,7 +52631,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Japanese cuisin"
+            "Japanese",
+            "cuisin"
         ],
         "index": 16
     },
@@ -51898,7 +52697,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Jazz bands"
+            "Jazz",
+            "bands"
         ],
         "index": 2
     },
@@ -52283,7 +53083,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "halibut special"
+            "halibut",
+            "special"
         ],
         "index": 7
     },
@@ -52426,7 +53227,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "japanese comfort food"
+            "japanese",
+            "comfort",
+            "food"
         ],
         "index": 9
     },
@@ -52452,7 +53255,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "half price sushi deal"
+            "half",
+            "price",
+            "sushi",
+            "deal"
         ],
         "index": 5
     },
@@ -52534,7 +53340,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "appetizer platter"
+            "appetizer",
+            "platter"
         ],
         "index": 6
     },
@@ -52581,7 +53388,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dress codes"
+            "dress",
+            "codes"
         ],
         "index": 1
     },
@@ -52654,7 +53462,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pieces of sushi"
+            "pieces",
+            "of",
+            "sushi"
         ],
         "index": 3
     },
@@ -52803,7 +53613,9 @@
         ],
         "polarity": "conflict",
         "aspect_term": [
-            "jewish deli food"
+            "jewish",
+            "deli",
+            "food"
         ],
         "index": 13
     },
@@ -52881,7 +53693,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Neapolitan pizza"
+            "Neapolitan",
+            "pizza"
         ],
         "index": 5
     },
@@ -52918,7 +53731,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "zucchini blossoms"
+            "zucchini",
+            "blossoms"
         ],
         "index": 15
     },
@@ -52943,7 +53757,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Wait staff"
+            "Wait",
+            "staff"
         ],
         "index": 0
     },
@@ -53171,7 +53986,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Vietnamese classics"
+            "Vietnamese",
+            "classics"
         ],
         "index": 5
     },
@@ -53185,7 +54001,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wait time"
+            "wait",
+            "time"
         ],
         "index": 1
     },
@@ -53242,7 +54059,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fish tanks"
+            "fish",
+            "tanks"
         ],
         "index": 18
     },
@@ -53355,7 +54173,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "noodle soup dishes"
+            "noodle",
+            "soup",
+            "dishes"
         ],
         "index": 5
     },
@@ -53410,7 +54230,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "cream cheeses"
+            "cream",
+            "cheeses"
         ],
         "index": 7
     },
@@ -53458,7 +54279,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lobster sandwich"
+            "lobster",
+            "sandwich"
         ],
         "index": 1
     },
@@ -53481,7 +54303,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "spaghetti with Scallops and Shrimp"
+            "spaghetti",
+            "with",
+            "Scallops",
+            "and",
+            "Shrimp"
         ],
         "index": 7
     },
@@ -53517,7 +54343,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dim sum"
+            "dim",
+            "sum"
         ],
         "index": 1
     },
@@ -53580,7 +54407,15 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "spinach ravioli in a light oil and garlic sauce"
+            "spinach",
+            "ravioli",
+            "in",
+            "a",
+            "light",
+            "oil",
+            "and",
+            "garlic",
+            "sauce"
         ],
         "index": 7
     },
@@ -53678,7 +54513,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Japanese food"
+            "Japanese",
+            "food"
         ],
         "index": 4
     },
@@ -53701,7 +54537,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "Chicken Teriyaki dish"
+            "Chicken",
+            "Teriyaki",
+            "dish"
         ],
         "index": 3
     },
@@ -53763,7 +54601,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Pam's special fried fish"
+            "Pam's",
+            "special",
+            "fried",
+            "fish"
         ],
         "index": 2
     },
@@ -53810,7 +54651,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "New England Chowder"
+            "New",
+            "England",
+            "Chowder"
         ],
         "index": 4
     },
@@ -53840,7 +54683,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Lobster Bisque"
+            "Lobster",
+            "Bisque"
         ],
         "index": 19
     },
@@ -53902,7 +54746,10 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "wines by the glass"
+            "wines",
+            "by",
+            "the",
+            "glass"
         ],
         "index": 2
     },
@@ -53925,7 +54772,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "duck breast special"
+            "duck",
+            "breast",
+            "special"
         ],
         "index": 3
     },
@@ -53983,7 +54832,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "french indian fusion"
+            "french",
+            "indian",
+            "fusion"
         ],
         "index": 3
     },
@@ -54149,7 +55000,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fried shrimp"
+            "fried",
+            "shrimp"
         ],
         "index": 4
     },
@@ -54284,7 +55136,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "cheese fondue"
+            "cheese",
+            "fondue"
         ],
         "index": 8
     },
@@ -54497,7 +55350,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "green curry"
+            "green",
+            "curry"
         ],
         "index": 2
     },
@@ -54700,7 +55554,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "currys (masaman, green, red)"
+            "currys",
+            "(masaman,",
+            "green,",
+            "red)"
         ],
         "index": 10
     },
@@ -54943,7 +55800,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine selection"
+            "wine",
+            "selection"
         ],
         "index": 1
     },
@@ -54993,7 +55851,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "house champagne"
+            "house",
+            "champagne"
         ],
         "index": 10
     },
@@ -55104,7 +55963,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "yellowfun tuna"
+            "yellowfun",
+            "tuna"
         ],
         "index": 4
     },
@@ -55123,7 +55983,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "mussel selection"
+            "mussel",
+            "selection"
         ],
         "index": 8
     },
@@ -55211,7 +56072,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dinner reservations"
+            "dinner",
+            "reservations"
         ],
         "index": 3
     },
@@ -55246,7 +56108,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Cheese plate"
+            "Cheese",
+            "plate"
         ],
         "index": 0
     },
@@ -55271,7 +56134,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "glasses of water"
+            "glasses",
+            "of",
+            "water"
         ],
         "index": 5
     },
@@ -55369,7 +56234,25 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Godmother pizza (a sort of traditional flat pizza with an olive oil-brushed crust and less tomato sauce than usual)"
+            "Godmother",
+            "pizza",
+            "(a",
+            "sort",
+            "of",
+            "traditional",
+            "flat",
+            "pizza",
+            "with",
+            "an",
+            "olive",
+            "oil-brushed",
+            "crust",
+            "and",
+            "less",
+            "tomato",
+            "sauce",
+            "than",
+            "usual)"
         ],
         "index": 20
     },
@@ -55467,7 +56350,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "plastic forks"
+            "plastic",
+            "forks"
         ],
         "index": 6
     },
@@ -55517,7 +56401,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "hummus platter"
+            "hummus",
+            "platter"
         ],
         "index": 14
     },
@@ -55793,7 +56678,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "apple tarte tatin"
+            "apple",
+            "tarte",
+            "tatin"
         ],
         "index": 10
     },
@@ -56055,7 +56942,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "New York Bagel"
+            "New",
+            "York",
+            "Bagel"
         ],
         "index": 12
     },
@@ -56095,7 +56984,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "miso soup"
+            "miso",
+            "soup"
         ],
         "index": 1
     },
@@ -56570,7 +57460,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Prix Fixe"
+            "Prix",
+            "Fixe"
         ],
         "index": 3
     },
@@ -56586,7 +57477,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 1
     },
@@ -56746,7 +57638,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "mashed potatoes"
+            "mashed",
+            "potatoes"
         ],
         "index": 3
     },
@@ -56939,7 +57832,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Spicy Scallop roll"
+            "Spicy",
+            "Scallop",
+            "roll"
         ],
         "index": 5
     },
@@ -56973,7 +57868,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Indian dining experience"
+            "Indian",
+            "dining",
+            "experience"
         ],
         "index": 14
     },
@@ -56995,7 +57892,8 @@
         ],
         "polarity": "conflict",
         "aspect_term": [
-            "Pub atmosphere"
+            "Pub",
+            "atmosphere"
         ],
         "index": 4
     },
@@ -57128,7 +58026,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "mixed drinks"
+            "mixed",
+            "drinks"
         ],
         "index": 5
     },
@@ -57149,7 +58048,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "snack foods"
+            "snack",
+            "foods"
         ],
         "index": 10
     },
@@ -57172,7 +58072,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "chocolate mud cake (warmed)"
+            "chocolate",
+            "mud",
+            "cake",
+            "(warmed)"
         ],
         "index": 2
     },
@@ -57195,7 +58098,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dulce de leche gelato"
+            "dulce",
+            "de",
+            "leche",
+            "gelato"
         ],
         "index": 10
     },
@@ -57239,7 +58145,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "classical furniture"
+            "classical",
+            "furniture"
         ],
         "index": 10
     },
@@ -57334,7 +58241,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "cole slaw"
+            "cole",
+            "slaw"
         ],
         "index": 5
     },
@@ -57431,7 +58339,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "blond wood decor"
+            "blond",
+            "wood",
+            "decor"
         ],
         "index": 1
     },
@@ -57617,7 +58527,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "glass of wine"
+            "glass",
+            "of",
+            "wine"
         ],
         "index": 6
     },
@@ -57649,7 +58561,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wait staff"
+            "wait",
+            "staff"
         ],
         "index": 1
     },
@@ -57738,7 +58651,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "chicken tikka-masala"
+            "chicken",
+            "tikka-masala"
         ],
         "index": 5
     },
@@ -57758,7 +58672,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "garlic naan"
+            "garlic",
+            "naan"
         ],
         "index": 9
     },
@@ -57964,7 +58879,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "menu description"
+            "menu",
+            "description"
         ],
         "index": 6
     },
@@ -57988,7 +58904,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Pad Se-Ew"
+            "Pad",
+            "Se-Ew"
         ],
         "index": 2
     },
@@ -58012,7 +58929,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Chicken with Cashew Nuts"
+            "Chicken",
+            "with",
+            "Cashew",
+            "Nuts"
         ],
         "index": 5
     },
@@ -58219,7 +59139,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "French bistro fare"
+            "French",
+            "bistro",
+            "fare"
         ],
         "index": 13
     },
@@ -58331,7 +59253,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "dinner special"
+            "dinner",
+            "special"
         ],
         "index": 8
     },
@@ -58401,7 +59324,11 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "people with carts of food"
+            "people",
+            "with",
+            "carts",
+            "of",
+            "food"
         ],
         "index": 1
     },
@@ -58428,7 +59355,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "crackling calamari salad"
+            "crackling",
+            "calamari",
+            "salad"
         ],
         "index": 1
     },
@@ -58451,7 +59380,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "sushi place"
+            "sushi",
+            "place"
         ],
         "index": 3
     },
@@ -58486,7 +59416,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "group dinner"
+            "group",
+            "dinner"
         ],
         "index": 5
     },
@@ -58504,7 +59435,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Thai ice tea"
+            "Thai",
+            "ice",
+            "tea"
         ],
         "index": 1
     },
@@ -58580,7 +59513,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "noise level"
+            "noise",
+            "level"
         ],
         "index": 17
     },
@@ -58817,7 +59751,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "sesame crusted Salmon"
+            "sesame",
+            "crusted",
+            "Salmon"
         ],
         "index": 6
     },
@@ -59421,7 +60357,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "beef cubes"
+            "beef",
+            "cubes"
         ],
         "index": 9
     },
@@ -59449,7 +60386,12 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "chicken with chili and lemon grass"
+            "chicken",
+            "with",
+            "chili",
+            "and",
+            "lemon",
+            "grass"
         ],
         "index": 13
     },
@@ -59517,7 +60459,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lamb chops"
+            "lamb",
+            "chops"
         ],
         "index": 3
     },
@@ -59694,7 +60637,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Chicken Tikka Masala"
+            "Chicken",
+            "Tikka",
+            "Masala"
         ],
         "index": 4
     },
@@ -59769,7 +60714,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "corned beef"
+            "corned",
+            "beef"
         ],
         "index": 1
     },
@@ -59816,7 +60762,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wait staff"
+            "wait",
+            "staff"
         ],
         "index": 3
     },
@@ -59928,7 +60875,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "plain slice"
+            "plain",
+            "slice"
         ],
         "index": 1
     },
@@ -60124,7 +61072,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "quality of food"
+            "quality",
+            "of",
+            "food"
         ],
         "index": 2
     },
@@ -60140,7 +61090,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "fish tanks"
+            "fish",
+            "tanks"
         ],
         "index": 4
     },
@@ -60227,7 +61178,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "live jazz band"
+            "live",
+            "jazz",
+            "band"
         ],
         "index": 11
     },
@@ -60289,7 +61242,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Lobster Cobb Salad"
+            "Lobster",
+            "Cobb",
+            "Salad"
         ],
         "index": 19
     },
@@ -60310,7 +61265,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "tea room"
+            "tea",
+            "room"
         ],
         "index": 5
     },
@@ -60551,7 +61507,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "dim sum"
+            "dim",
+            "sum"
         ],
         "index": 6
     },
@@ -60594,7 +61551,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "dim sum atmosphere"
+            "dim",
+            "sum",
+            "atmosphere"
         ],
         "index": 20
     },
@@ -60711,7 +61670,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "indian food"
+            "indian",
+            "food"
         ],
         "index": 21
     },
@@ -60773,7 +61733,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Thai food"
+            "Thai",
+            "food"
         ],
         "index": 1
     },
@@ -60788,7 +61749,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "selection of wine"
+            "selection",
+            "of",
+            "wine"
         ],
         "index": 1
     },
@@ -60834,7 +61797,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "sushi bar"
+            "sushi",
+            "bar"
         ],
         "index": 5
     },
@@ -60894,7 +61858,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "French food"
+            "French",
+            "food"
         ],
         "index": 9
     },
@@ -61045,7 +62010,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "tamarind duck"
+            "tamarind",
+            "duck"
         ],
         "index": 2
     },
@@ -61082,7 +62048,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "noodles with ground beef"
+            "noodles",
+            "with",
+            "ground",
+            "beef"
         ],
         "index": 8
     },
@@ -61156,7 +62125,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Thai flavors"
+            "Thai",
+            "flavors"
         ],
         "index": 23
     },
@@ -61341,7 +62311,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "black cod with yuzu sauce"
+            "black",
+            "cod",
+            "with",
+            "yuzu",
+            "sauce"
         ],
         "index": 3
     },
@@ -61643,7 +62617,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Downstairs lounge"
+            "Downstairs",
+            "lounge"
         ],
         "index": 0
     },
@@ -61668,7 +62643,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "menu prices"
+            "menu",
+            "prices"
         ],
         "index": 1
     },
@@ -61718,7 +62694,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "portion size"
+            "portion",
+            "size"
         ],
         "index": 14
     },
@@ -62038,7 +63015,10 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "water and wine glasses"
+            "water",
+            "and",
+            "wine",
+            "glasses"
         ],
         "index": 17
     },
@@ -62209,7 +63189,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "prix fixe meal"
+            "prix",
+            "fixe",
+            "meal"
         ],
         "index": 5
     },
@@ -62271,7 +63253,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "night scene"
+            "night",
+            "scene"
         ],
         "index": 16
     },
@@ -62470,7 +63453,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "hot sauce"
+            "hot",
+            "sauce"
         ],
         "index": 17
     },
@@ -62592,7 +63576,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "thai popcorn"
+            "thai",
+            "popcorn"
         ],
         "index": 3
     },
@@ -62791,7 +63776,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wasabe potatoes"
+            "wasabe",
+            "potatoes"
         ],
         "index": 3
     },
@@ -62827,7 +63813,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "coat check girls"
+            "coat",
+            "check",
+            "girls"
         ],
         "index": 5
     },
@@ -62863,7 +63851,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "coat check girls"
+            "coat",
+            "check",
+            "girls"
         ],
         "index": 24
     },
@@ -62995,7 +63985,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "after dinner drink"
+            "after",
+            "dinner",
+            "drink"
         ],
         "index": 16
     },
@@ -63014,7 +64006,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "outdoor seating"
+            "outdoor",
+            "seating"
         ],
         "index": 3
     },
@@ -63054,7 +64047,9 @@
         ],
         "polarity": "conflict",
         "aspect_term": [
-            "prix fixe pricing"
+            "prix",
+            "fixe",
+            "pricing"
         ],
         "index": 3
     },
@@ -63358,7 +64353,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "dim sum"
+            "dim",
+            "sum"
         ],
         "index": 41
     },
@@ -63636,7 +64632,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "cream cheese"
+            "cream",
+            "cheese"
         ],
         "index": 4
     },
@@ -63759,7 +64756,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "chicken casserole"
+            "chicken",
+            "casserole"
         ],
         "index": 3
     },
@@ -63864,7 +64862,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Valentines Day dinner"
+            "Valentines",
+            "Day",
+            "dinner"
         ],
         "index": 5
     },
@@ -63890,7 +64890,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "jelly fish"
+            "jelly",
+            "fish"
         ],
         "index": 3
     },
@@ -63916,7 +64917,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "drunken chicken"
+            "drunken",
+            "chicken"
         ],
         "index": 5
     },
@@ -63942,7 +64944,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "soupy dumplings"
+            "soupy",
+            "dumplings"
         ],
         "index": 9
     },
@@ -63968,7 +64971,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "stir fry blue crab"
+            "stir",
+            "fry",
+            "blue",
+            "crab"
         ],
         "index": 13
     },
@@ -64050,7 +65056,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dumpling menu"
+            "dumpling",
+            "menu"
         ],
         "index": 12
     },
@@ -64104,7 +65111,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "box wine"
+            "box",
+            "wine"
         ],
         "index": 5
     },
@@ -64234,7 +65242,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "sushi chef"
+            "sushi",
+            "chef"
         ],
         "index": 12
     },
@@ -64493,7 +65502,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pesto pizza"
+            "pesto",
+            "pizza"
         ],
         "index": 1
     },
@@ -64523,7 +65533,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Italian chees"
+            "Italian",
+            "chees"
         ],
         "index": 13
     },
@@ -64553,7 +65564,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "thin-crust pizza"
+            "thin-crust",
+            "pizza"
         ],
         "index": 5
     },
@@ -64585,7 +65597,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "shrimp appetizer"
+            "shrimp",
+            "appetizer"
         ],
         "index": 3
     },
@@ -64649,7 +65662,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lamb vindaloo"
+            "lamb",
+            "vindaloo"
         ],
         "index": 19
     },
@@ -65000,7 +66014,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "potato pancakes"
+            "potato",
+            "pancakes"
         ],
         "index": 14
     },
@@ -65039,7 +66054,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fried dumpling"
+            "fried",
+            "dumpling"
         ],
         "index": 28
     },
@@ -65275,7 +66291,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "dining area"
+            "dining",
+            "area"
         ],
         "index": 16
     },
@@ -65288,7 +66305,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "crab cakes"
+            "crab",
+            "cakes"
         ],
         "index": 1
     },
@@ -65306,7 +66324,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "dining experience"
+            "dining",
+            "experience"
         ],
         "index": 4
     },
@@ -65501,7 +66520,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Sichuan chef"
+            "Sichuan",
+            "chef"
         ],
         "index": 6
     },
@@ -65541,7 +66561,9 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "spicy tuna roll"
+            "spicy",
+            "tuna",
+            "roll"
         ],
         "index": 17
     },
@@ -65795,7 +66817,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "chocolate sampler"
+            "chocolate",
+            "sampler"
         ],
         "index": 9
     },
@@ -65827,7 +66850,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "dessert wine"
+            "dessert",
+            "wine"
         ],
         "index": 18
     },
@@ -65863,7 +66887,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "white wine"
+            "white",
+            "wine"
         ],
         "index": 3
     },
@@ -65911,7 +66936,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "private room"
+            "private",
+            "room"
         ],
         "index": 6
     },
@@ -66032,7 +67058,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "pre-fixe menu"
+            "pre-fixe",
+            "menu"
         ],
         "index": 5
     },
@@ -66066,7 +67093,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "choices per course"
+            "choices",
+            "per",
+            "course"
         ],
         "index": 10
     },
@@ -66100,7 +67129,10 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "ordering a la carte"
+            "ordering",
+            "a",
+            "la",
+            "carte"
         ],
         "index": 21
     },
@@ -66112,7 +67144,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Pakistani food"
+            "Pakistani",
+            "food"
         ],
         "index": 1
     },
@@ -66204,7 +67237,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "eggplant parmesan"
+            "eggplant",
+            "parmesan"
         ],
         "index": 1
     },
@@ -66238,7 +67272,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "baked ziti with meatsauce"
+            "baked",
+            "ziti",
+            "with",
+            "meatsauce"
         ],
         "index": 21
     },
@@ -66368,7 +67405,10 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "hot pot with seafood"
+            "hot",
+            "pot",
+            "with",
+            "seafood"
         ],
         "index": 3
     },
@@ -66537,7 +67577,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "cheese fondue"
+            "cheese",
+            "fondue"
         ],
         "index": 4
     },
@@ -66839,7 +67880,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "white sauce"
+            "white",
+            "sauce"
         ],
         "index": 11
     },
@@ -66865,7 +67907,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "Chinese food"
+            "Chinese",
+            "food"
         ],
         "index": 4
     },
@@ -66931,7 +67974,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "paratha bread"
+            "paratha",
+            "bread"
         ],
         "index": 5
     },
@@ -67132,7 +68176,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "delivery time"
+            "delivery",
+            "time"
         ],
         "index": 7
     },
@@ -67579,7 +68624,15 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Thai noodles with shrimp and chicken and coconut juice"
+            "Thai",
+            "noodles",
+            "with",
+            "shrimp",
+            "and",
+            "chicken",
+            "and",
+            "coconut",
+            "juice"
         ],
         "index": 3
     },
@@ -67628,7 +68681,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "menu items"
+            "menu",
+            "items"
         ],
         "index": 19
     },
@@ -67727,7 +68781,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "portion sizes"
+            "portion",
+            "sizes"
         ],
         "index": 5
     },
@@ -67753,7 +68808,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Kosher dills"
+            "Kosher",
+            "dills"
         ],
         "index": 0
     },
@@ -68038,7 +69094,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Thai food"
+            "Thai",
+            "food"
         ],
         "index": 2
     },
@@ -68118,7 +69175,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "food runners"
+            "food",
+            "runners"
         ],
         "index": 19
     },
@@ -68226,7 +69284,12 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "braised lamb shank in red wine"
+            "braised",
+            "lamb",
+            "shank",
+            "in",
+            "red",
+            "wine"
         ],
         "index": 10
     },
@@ -68300,7 +69363,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 12
     },
@@ -68373,7 +69437,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "iced tea"
+            "iced",
+            "tea"
         ],
         "index": 2
     },
@@ -68840,7 +69905,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "fried dumplings"
+            "fried",
+            "dumplings"
         ],
         "index": 11
     },
@@ -68894,7 +69960,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Obv caviar"
+            "Obv",
+            "caviar"
         ],
         "index": 0
     },
@@ -69014,7 +70081,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dining experiences"
+            "dining",
+            "experiences"
         ],
         "index": 19
     },
@@ -69072,7 +70140,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "santa fe chopped salad"
+            "santa",
+            "fe",
+            "chopped",
+            "salad"
         ],
         "index": 4
     },
@@ -69093,7 +70164,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "fish and chips"
+            "fish",
+            "and",
+            "chips"
         ],
         "index": 9
     },
@@ -69178,7 +70251,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Tuna roll"
+            "Tuna",
+            "roll"
         ],
         "index": 2
     },
@@ -69204,7 +70278,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "price range"
+            "price",
+            "range"
         ],
         "index": 15
     },
@@ -69446,7 +70521,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "comfort food"
+            "comfort",
+            "food"
         ],
         "index": 6
     },
@@ -69612,7 +70688,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pastrami sandwich"
+            "pastrami",
+            "sandwich"
         ],
         "index": 4
     },
@@ -69928,7 +71005,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "lunch specia"
+            "lunch",
+            "specia"
         ],
         "index": 6
     },
@@ -69951,7 +71029,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Indian Fast Food"
+            "Indian",
+            "Fast",
+            "Food"
         ],
         "index": 5
     },
@@ -70033,7 +71113,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 1
     },
@@ -70142,7 +71223,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "italian food"
+            "italian",
+            "food"
         ],
         "index": 5
     },
@@ -70802,7 +71884,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "main entree"
+            "main",
+            "entree"
         ],
         "index": 57
     },
@@ -70880,7 +71963,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "cold udon"
+            "cold",
+            "udon"
         ],
         "index": 61
     },
@@ -71326,7 +72410,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "main course"
+            "main",
+            "course"
         ],
         "index": 2
     },
@@ -71508,7 +72593,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "popcorn topping"
+            "popcorn",
+            "topping"
         ],
         "index": 13
     },
@@ -71726,7 +72812,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "people serving"
+            "people",
+            "serving"
         ],
         "index": 7
     },
@@ -71804,7 +72891,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "dosa batter"
+            "dosa",
+            "batter"
         ],
         "index": 7
     },
@@ -71876,7 +72964,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pre-theatre or after-theatre drinks"
+            "pre-theatre",
+            "or",
+            "after-theatre",
+            "drinks"
         ],
         "index": 11
     },
@@ -71943,7 +73034,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "mussaman curry"
+            "mussaman",
+            "curry"
         ],
         "index": 1
     },
@@ -71986,7 +73078,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "fried tofu"
+            "fried",
+            "tofu"
         ],
         "index": 16
     },
@@ -72145,7 +73238,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sake martini"
+            "sake",
+            "martini"
         ],
         "index": 1
     },
@@ -72309,7 +73403,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "lunch buffet"
+            "lunch",
+            "buffet"
         ],
         "index": 3
     },
@@ -72681,7 +73776,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "drumsticks over rice"
+            "drumsticks",
+            "over",
+            "rice"
         ],
         "index": 1
     },
@@ -72700,7 +73797,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sour spicy soup"
+            "sour",
+            "spicy",
+            "soup"
         ],
         "index": 5
     },
@@ -72742,7 +73841,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "whitefish salad"
+            "whitefish",
+            "salad"
         ],
         "index": 1
     },
@@ -72896,7 +73996,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "rice dishes"
+            "rice",
+            "dishes"
         ],
         "index": 12
     },
@@ -72932,7 +74033,8 @@
         ],
         "polarity": "conflict",
         "aspect_term": [
-            "chicken parm"
+            "chicken",
+            "parm"
         ],
         "index": 1
     },
@@ -72968,7 +74070,10 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "chicken with portobello mushrooms"
+            "chicken",
+            "with",
+            "portobello",
+            "mushrooms"
         ],
         "index": 15
     },
@@ -73040,7 +74145,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "tomato sauce"
+            "tomato",
+            "sauce"
         ],
         "index": 8
     },
@@ -73177,7 +74283,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "counter service"
+            "counter",
+            "service"
         ],
         "index": 8
     },
@@ -73197,7 +74304,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "staff member"
+            "staff",
+            "member"
         ],
         "index": 3
     },
@@ -73402,7 +74510,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "red curry"
+            "red",
+            "curry"
         ],
         "index": 1
     },
@@ -73437,7 +74546,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "pad thai"
+            "pad",
+            "thai"
         ],
         "index": 8
     },
@@ -73531,7 +74641,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 1
     },
@@ -73769,7 +74880,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pad penang"
+            "pad",
+            "penang"
         ],
         "index": 1
     },
@@ -73899,7 +75011,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "hanger steak"
+            "hanger",
+            "steak"
         ],
         "index": 1
     },
@@ -73994,7 +75107,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lunch food"
+            "lunch",
+            "food"
         ],
         "index": 7
     },
@@ -74116,7 +75230,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "fast food"
+            "fast",
+            "food"
         ],
         "index": 10
     },
@@ -74234,7 +75349,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "barebecued salmon"
+            "barebecued",
+            "salmon"
         ],
         "index": 1
     },
@@ -74347,7 +75463,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "cream cheese"
+            "cream",
+            "cheese"
         ],
         "index": 9
     },
@@ -74422,7 +75539,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "chai tea"
+            "chai",
+            "tea"
         ],
         "index": 3
     },
@@ -74482,7 +75600,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Spicy Tuna hand rolls"
+            "Spicy",
+            "Tuna",
+            "hand",
+            "rolls"
         ],
         "index": 15
     },
@@ -74663,7 +75784,8 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "meat dishes"
+            "meat",
+            "dishes"
         ],
         "index": 1
     },
@@ -74755,7 +75877,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "brassiere food"
+            "brassiere",
+            "food"
         ],
         "index": 5
     },
@@ -75113,7 +76236,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "prix fix"
+            "prix",
+            "fix"
         ],
         "index": 8
     },
@@ -75148,7 +76272,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "three course meal"
+            "three",
+            "course",
+            "meal"
         ],
         "index": 14
     },
@@ -75183,7 +76309,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "glasses of wine"
+            "glasses",
+            "of",
+            "wine"
         ],
         "index": 19
     },
@@ -75417,7 +76545,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "chef app"
+            "chef",
+            "app"
         ],
         "index": 3
     },
@@ -75472,7 +76601,15 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "delicate butternut squash ravioli in a delicious truffle sauce"
+            "delicate",
+            "butternut",
+            "squash",
+            "ravioli",
+            "in",
+            "a",
+            "delicious",
+            "truffle",
+            "sauce"
         ],
         "index": 7
     },
@@ -75527,7 +76664,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "buttery and tender langostine entree"
+            "buttery",
+            "and",
+            "tender",
+            "langostine",
+            "entree"
         ],
         "index": 19
     },
@@ -75637,7 +76778,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Cakebread Cabernet"
+            "Cakebread",
+            "Cabernet"
         ],
         "index": 35
     },
@@ -76146,7 +77288,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "thai food"
+            "thai",
+            "food"
         ],
         "index": 14
     },
@@ -76210,7 +77353,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "chinese food"
+            "chinese",
+            "food"
         ],
         "index": 19
     },
@@ -76237,7 +77381,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "foie gras terrine with figs"
+            "foie",
+            "gras",
+            "terrine",
+            "with",
+            "figs"
         ],
         "index": 8
     },
@@ -76264,7 +77412,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "duck confit"
+            "duck",
+            "confit"
         ],
         "index": 1
     },
@@ -76572,7 +77721,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "Gulab Jamun (dessert)"
+            "Gulab",
+            "Jamun",
+            "(dessert)"
         ],
         "index": 7
     },
@@ -76865,7 +78016,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "brioche and lollies"
+            "brioche",
+            "and",
+            "lollies"
         ],
         "index": 1
     },
@@ -76939,7 +78092,8 @@
         ],
         "polarity": "negative",
         "aspect_term": [
-            "2-person table"
+            "2-person",
+            "table"
         ],
         "index": 36
     },
@@ -77058,7 +78212,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wine list"
+            "wine",
+            "list"
         ],
         "index": 19
     },
@@ -77106,7 +78261,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wait staff"
+            "wait",
+            "staff"
         ],
         "index": 2
     },
@@ -77230,7 +78386,11 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "mussels in spicy tomato sauce"
+            "mussels",
+            "in",
+            "spicy",
+            "tomato",
+            "sauce"
         ],
         "index": 7
     },
@@ -77411,7 +78571,9 @@
         ],
         "polarity": "neutral",
         "aspect_term": [
-            "case of snapple"
+            "case",
+            "of",
+            "snapple"
         ],
         "index": 11
     },
@@ -77530,7 +78692,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "lamb dishes"
+            "lamb",
+            "dishes"
         ],
         "index": 6
     },
@@ -78080,7 +79243,9 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "sushimi cucumber roll"
+            "sushimi",
+            "cucumber",
+            "roll"
         ],
         "index": 1
     },
@@ -78123,7 +79288,10 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "wines by the glass"
+            "wines",
+            "by",
+            "the",
+            "glass"
         ],
         "index": 1
     },
@@ -78481,7 +79649,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "potato chips"
+            "potato",
+            "chips"
         ],
         "index": 6
     },
@@ -78580,7 +79749,8 @@
         ],
         "polarity": "positive",
         "aspect_term": [
-            "pasta entre'es"
+            "pasta",
+            "entre'es"
         ],
         "index": 3
     },
