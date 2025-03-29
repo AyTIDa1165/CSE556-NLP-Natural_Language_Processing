@@ -1,5 +1,4 @@
 __pycache__/
 *.pth
-glove.6B
-glove.6B.zip
-glove.6B.300d.txt
+*.csv
+.env
