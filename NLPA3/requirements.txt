@@ -1,8 +1,0 @@
-transformers>=4.39.0
-datasets>=2.18.0
-torch>=2.1.0
-sentencepiece>=0.1.99
-pandas>=2.2.0
-contractions>=0.1.73
-scikit-learn>=1.4.0
-accelerate>=0.27.2
