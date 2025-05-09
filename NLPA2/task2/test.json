@@ -1,0 +1,6030 @@
+[
+    {
+        "sentence_id": "1669",
+        "sentence": "It is not a place for tourists or someone who has never dined in Bay Ridge.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1816",
+        "sentence": "THe perfect spot.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2471",
+        "sentence": "The only weird thing was if we got a bottle, the waitress would have simply multiplied the glass price X4, which makes no sense whatsoever.",
+        "aspect_terms": [
+            {
+                "term": "bottle",
+                "polarity": "neutral",
+                "from": "37",
+                "to": "43"
+            },
+            {
+                "term": "waitress",
+                "polarity": "negative",
+                "from": "49",
+                "to": "57"
+            },
+            {
+                "term": "price",
+                "polarity": "negative",
+                "from": "97",
+                "to": "102"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "price",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1192",
+        "sentence": "They sell special sushi, everything have a topping, sauce and etc.",
+        "aspect_terms": [
+            {
+                "term": "sushi",
+                "polarity": "positive",
+                "from": "18",
+                "to": "23"
+            },
+            {
+                "term": "sauce",
+                "polarity": "positive",
+                "from": "52",
+                "to": "57"
+            },
+            {
+                "term": "topping",
+                "polarity": "positive",
+                "from": "43",
+                "to": "50"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1373",
+        "sentence": "DO not try unless you're just going there to hang out like the rest of the hipsters who apparently have no sense of taste.",
+        "aspect_terms": [
+            {
+                "term": "taste",
+                "polarity": "negative",
+                "from": "116",
+                "to": "121"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            },
+            {
+                "category": "ambience",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "936",
+        "sentence": "They never came back to refill our glasses again.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2686",
+        "sentence": "The place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.",
+        "aspect_terms": [
+            {
+                "term": "service",
+                "polarity": "positive",
+                "from": "75",
+                "to": "82"
+            },
+            {
+                "term": "place",
+                "polarity": "negative",
+                "from": "4",
+                "to": "9"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            },
+            {
+                "category": "ambience",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1952",
+        "sentence": "The service was excellent and the food was delicious.",
+        "aspect_terms": [
+            {
+                "term": "service",
+                "polarity": "positive",
+                "from": "4",
+                "to": "11"
+            },
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "34",
+                "to": "38"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "917",
+        "sentence": "Service was also very good.",
+        "aspect_terms": [
+            {
+                "term": "Service",
+                "polarity": "positive",
+                "from": "0",
+                "to": "7"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1325",
+        "sentence": "I took my girlfriend there for her birthday last night and we had a relaxing, really good meal.",
+        "aspect_terms": [
+            {
+                "term": "meal",
+                "polarity": "positive",
+                "from": "90",
+                "to": "94"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3016",
+        "sentence": "I would not have been so disappointed with the portions if the qualities were good enough to make up for it, but they were not!",
+        "aspect_terms": [
+            {
+                "term": "portions",
+                "polarity": "negative",
+                "from": "47",
+                "to": "55"
+            },
+            {
+                "term": "qualities",
+                "polarity": "negative",
+                "from": "63",
+                "to": "72"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1297",
+        "sentence": "They're rude at times, and not very friendly.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1528",
+        "sentence": "I'm happy to have Nosh in the neighborhood and the food is very comforting.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "51",
+                "to": "55"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1162",
+        "sentence": "Good atmosphere, combination of all the hottest music dress code is relatively strict except on Fridays.",
+        "aspect_terms": [
+            {
+                "term": "atmosphere",
+                "polarity": "positive",
+                "from": "5",
+                "to": "15"
+            },
+            {
+                "term": "music",
+                "polarity": "positive",
+                "from": "48",
+                "to": "53"
+            },
+            {
+                "term": "dress cod",
+                "polarity": "negative",
+                "from": "54",
+                "to": "63"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "411",
+        "sentence": "They kindly brought us more to see if it was better, but it was not!",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2796",
+        "sentence": "love the food.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "9",
+                "to": "13"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3634",
+        "sentence": "I would highly recommend Nina's to anyone who wants to have a romantic dinner in a heart warming surrounding filled with candles and family pictures.",
+        "aspect_terms": [
+            {
+                "term": "candles",
+                "polarity": "positive",
+                "from": "121",
+                "to": "128"
+            },
+            {
+                "term": "dinner",
+                "polarity": "positive",
+                "from": "71",
+                "to": "77"
+            },
+            {
+                "term": "surrounding",
+                "polarity": "positive",
+                "from": "97",
+                "to": "108"
+            },
+            {
+                "term": "pictures",
+                "polarity": "positive",
+                "from": "140",
+                "to": "148"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            },
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "822",
+        "sentence": "All the desserts the group tried got favorable reviews.",
+        "aspect_terms": [
+            {
+                "term": "desserts",
+                "polarity": "positive",
+                "from": "8",
+                "to": "16"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2256",
+        "sentence": "There's something smooth about sipping sake upper east side style.",
+        "aspect_terms": [
+            {
+                "term": "sake",
+                "polarity": "positive",
+                "from": "39",
+                "to": "43"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2321",
+        "sentence": "It's a nice place to relax and have conversation.",
+        "aspect_terms": [
+            {
+                "term": "place",
+                "polarity": "positive",
+                "from": "12",
+                "to": "17"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3289",
+        "sentence": "This place has got to be the best japanese restaurant in the new york area.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2611",
+        "sentence": "Best Reuben sandwich ever!",
+        "aspect_terms": [
+            {
+                "term": "Reuben sandwich",
+                "polarity": "positive",
+                "from": "5",
+                "to": "20"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1716",
+        "sentence": "Lucky Strike is a great casual place to just grab a bite to eat.",
+        "aspect_terms": [
+            {
+                "term": "place",
+                "polarity": "positive",
+                "from": "31",
+                "to": "36"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1003",
+        "sentence": "Wonderful strawberry daiquiries as well!",
+        "aspect_terms": [
+            {
+                "term": "strawberry daiquiries",
+                "polarity": "positive",
+                "from": "10",
+                "to": "31"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1614",
+        "sentence": "Going to Volare is like going to your favorite aunt's house for dinner, assuming that your aunt is a great Italian cook.",
+        "aspect_terms": [
+            {
+                "term": "dinner",
+                "polarity": "neutral",
+                "from": "64",
+                "to": "70"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2109",
+        "sentence": "The sushi has been from average to below average, the wait service has always been sub-par the atmosphere goes from nice to really irritating (if you sit in the area beyond the kitchen, the acousitcs are horrid, everything echoes is extremely loud).",
+        "aspect_terms": [
+            {
+                "term": "sushi",
+                "polarity": "negative",
+                "from": "4",
+                "to": "9"
+            },
+            {
+                "term": "wait service",
+                "polarity": "negative",
+                "from": "54",
+                "to": "66"
+            },
+            {
+                "term": "atmosphere",
+                "polarity": "conflict",
+                "from": "95",
+                "to": "105"
+            },
+            {
+                "term": "area",
+                "polarity": "negative",
+                "from": "161",
+                "to": "165"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            },
+            {
+                "category": "service",
+                "polarity": "negative"
+            },
+            {
+                "category": "ambience",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "867",
+        "sentence": "I loved it and would go again.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "508",
+        "sentence": "Frites were delicious if a bit on the thick side.",
+        "aspect_terms": [
+            {
+                "term": "Frites",
+                "polarity": "positive",
+                "from": "0",
+                "to": "6"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1177",
+        "sentence": "SO SO SO SO SO good!",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1187",
+        "sentence": "Alone for 100 bucks, it is really overprice.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "price",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "650",
+        "sentence": "Out of the hundreds of Italian restaurants in Queens, this is among the best.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "313",
+        "sentence": "Very good value",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "785",
+        "sentence": "Here you get the zen feel without feeling rigid.",
+        "aspect_terms": [
+            {
+                "term": "zen feel",
+                "polarity": "positive",
+                "from": "17",
+                "to": "25"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "665",
+        "sentence": "I would recommend putting your name down and then getting a drink at a local bar first though because of the wait time.",
+        "aspect_terms": [
+            {
+                "term": "drink",
+                "polarity": "neutral",
+                "from": "60",
+                "to": "65"
+            },
+            {
+                "term": "bar",
+                "polarity": "neutral",
+                "from": "77",
+                "to": "80"
+            },
+            {
+                "term": "wait time",
+                "polarity": "negative",
+                "from": "109",
+                "to": "118"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "140",
+        "sentence": "I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork.",
+        "aspect_terms": [
+            {
+                "term": "egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork",
+                "polarity": "positive",
+                "from": "24",
+                "to": "104"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1168",
+        "sentence": "I keep my fingers crossed the whole subway ride hoping that there will be a table I can sit at by myself and not have to share with the rice congee soup people.",
+        "aspect_terms": [
+            {
+                "term": "table",
+                "polarity": "neutral",
+                "from": "76",
+                "to": "81"
+            },
+            {
+                "term": "rice congee soup",
+                "polarity": "neutral",
+                "from": "136",
+                "to": "152"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3162",
+        "sentence": "Overall, the best bagel in town.",
+        "aspect_terms": [
+            {
+                "term": "bagel",
+                "polarity": "positive",
+                "from": "18",
+                "to": "23"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1289",
+        "sentence": "Everything a NY pizza joint should be.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3242",
+        "sentence": "It was huge, delicious, fresh, and will be the reason we return.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3526",
+        "sentence": "We go often.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "969",
+        "sentence": "Light, refreshing summer rolls (not fried) remind me of Vietnamese places in Paris.",
+        "aspect_terms": [
+            {
+                "term": "summer rolls",
+                "polarity": "positive",
+                "from": "18",
+                "to": "30"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "407",
+        "sentence": "The sushi seemed pretty fresh and was adequately proportioned.",
+        "aspect_terms": [
+            {
+                "term": "sushi",
+                "polarity": "positive",
+                "from": "4",
+                "to": "9"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1507",
+        "sentence": "moral stay away.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "922",
+        "sentence": "but the service was a bit slow.",
+        "aspect_terms": [
+            {
+                "term": "service",
+                "polarity": "negative",
+                "from": "8",
+                "to": "15"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1060",
+        "sentence": "Spreads and toppings are great - though a bit pricey.",
+        "aspect_terms": [
+            {
+                "term": "Spreads",
+                "polarity": "positive",
+                "from": "0",
+                "to": "7"
+            },
+            {
+                "term": "toppings",
+                "polarity": "positive",
+                "from": "12",
+                "to": "20"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "352",
+        "sentence": "When I saw that their website had a link to da Ciro in Napoli, I knew there was going to be good pizza!",
+        "aspect_terms": [
+            {
+                "term": "pizza",
+                "polarity": "positive",
+                "from": "97",
+                "to": "102"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "888",
+        "sentence": "No one asked what was wrong as we left with nothing touched on our plates.",
+        "aspect_terms": [
+            {
+                "term": "plates",
+                "polarity": "neutral",
+                "from": "67",
+                "to": "73"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2121",
+        "sentence": "Indoor was very cozy and cute.",
+        "aspect_terms": [
+            {
+                "term": "Indoor",
+                "polarity": "positive",
+                "from": "0",
+                "to": "6"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "559",
+        "sentence": "We had a 3 hour brunch- they definitely do not rush you- and they kept the unlimited mimosas flowing the whole time.",
+        "aspect_terms": [
+            {
+                "term": "brunch",
+                "polarity": "positive",
+                "from": "16",
+                "to": "22"
+            },
+            {
+                "term": "mimosas",
+                "polarity": "positive",
+                "from": "85",
+                "to": "92"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1302",
+        "sentence": "And their prices are very high - they actually think that they can get away with charging such prices for such terrible food and service!",
+        "aspect_terms": [
+            {
+                "term": "prices",
+                "polarity": "negative",
+                "from": "10",
+                "to": "16"
+            },
+            {
+                "term": "prices",
+                "polarity": "negative",
+                "from": "95",
+                "to": "101"
+            },
+            {
+                "term": "food",
+                "polarity": "negative",
+                "from": "120",
+                "to": "124"
+            },
+            {
+                "term": "service",
+                "polarity": "negative",
+                "from": "129",
+                "to": "136"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            },
+            {
+                "category": "service",
+                "polarity": "negative"
+            },
+            {
+                "category": "price",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3262",
+        "sentence": "They're terrific!!",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "588",
+        "sentence": "The service was excellent, the food was excellent, but the entire experience was very cool.",
+        "aspect_terms": [
+            {
+                "term": "service",
+                "polarity": "positive",
+                "from": "4",
+                "to": "11"
+            },
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "31",
+                "to": "35"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2289",
+        "sentence": "The service is good and the resturant is clean.",
+        "aspect_terms": [
+            {
+                "term": "service",
+                "polarity": "positive",
+                "from": "4",
+                "to": "11"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            },
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "527",
+        "sentence": "Great spot, whether looking for a couple of drinks or quiet dinner.",
+        "aspect_terms": [
+            {
+                "term": "drinks",
+                "polarity": "positive",
+                "from": "44",
+                "to": "50"
+            },
+            {
+                "term": "dinner",
+                "polarity": "positive",
+                "from": "60",
+                "to": "66"
+            },
+            {
+                "term": "spot",
+                "polarity": "positive",
+                "from": "6",
+                "to": "10"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2478",
+        "sentence": "Just stick with the small dishes!",
+        "aspect_terms": [
+            {
+                "term": "dishes",
+                "polarity": "negative",
+                "from": "26",
+                "to": "32"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "945",
+        "sentence": "The cafe itself was really nice with comfortable outdoor chairs and tables, but the service could have been better.",
+        "aspect_terms": [
+            {
+                "term": "cafe",
+                "polarity": "positive",
+                "from": "4",
+                "to": "8"
+            },
+            {
+                "term": "outdoor chairs",
+                "polarity": "positive",
+                "from": "49",
+                "to": "63"
+            },
+            {
+                "term": "tables",
+                "polarity": "positive",
+                "from": "68",
+                "to": "74"
+            },
+            {
+                "term": "service",
+                "polarity": "negative",
+                "from": "84",
+                "to": "91"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            },
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1642",
+        "sentence": "I've rarely had a problem with slow staff in the 10 years I've been going.",
+        "aspect_terms": [
+            {
+                "term": "staff",
+                "polarity": "positive",
+                "from": "36",
+                "to": "41"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1766",
+        "sentence": "Food is excellent.",
+        "aspect_terms": [
+            {
+                "term": "Food",
+                "polarity": "positive",
+                "from": "0",
+                "to": "4"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2275",
+        "sentence": "This place is a literal hole-in-the-wall that is buried within Doyers, right off of Pell St (barber's alley) in Chinatown.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1233",
+        "sentence": "They outshine HH.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2573",
+        "sentence": "Although we were looking for regular lettuce and some walnuts the salads we got were great.",
+        "aspect_terms": [
+            {
+                "term": "salads",
+                "polarity": "positive",
+                "from": "66",
+                "to": "72"
+            },
+            {
+                "term": "lettuce",
+                "polarity": "neutral",
+                "from": "37",
+                "to": "44"
+            },
+            {
+                "term": "walnuts",
+                "polarity": "neutral",
+                "from": "54",
+                "to": "61"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2323",
+        "sentence": "Excellent lunch buffet for only $6.95.",
+        "aspect_terms": [
+            {
+                "term": "lunch buffet",
+                "polarity": "positive",
+                "from": "10",
+                "to": "22"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "413",
+        "sentence": "We were sorry to check them off our list as we had enjoyed and recommended the place in the past.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2281",
+        "sentence": "If you're not familiar with the cuisine, you may encounter problems ordering here and be sure to bring plenty of cash with you as they don't accept credit cards.",
+        "aspect_terms": [
+            {
+                "term": "cuisine",
+                "polarity": "negative",
+                "from": "32",
+                "to": "39"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "983",
+        "sentence": "both are very reasonably priced (around $8 for dinner and $5 for lunch), and are delicious and filling.",
+        "aspect_terms": [
+            {
+                "term": "priced",
+                "polarity": "positive",
+                "from": "25",
+                "to": "31"
+            },
+            {
+                "term": "dinner",
+                "polarity": "positive",
+                "from": "47",
+                "to": "53"
+            },
+            {
+                "term": "lunch",
+                "polarity": "positive",
+                "from": "65",
+                "to": "70"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2928",
+        "sentence": "Problem is nothing at Prune is particularly memorable.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2571",
+        "sentence": "Ambience is so cute and quaint, good for business although we were there on vacation.",
+        "aspect_terms": [
+            {
+                "term": "Ambience",
+                "polarity": "positive",
+                "from": "0",
+                "to": "8"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2122",
+        "sentence": "The portion sizes here are huge, and the sushi is good.",
+        "aspect_terms": [
+            {
+                "term": "portion sizes",
+                "polarity": "positive",
+                "from": "4",
+                "to": "17"
+            },
+            {
+                "term": "sushi",
+                "polarity": "positive",
+                "from": "41",
+                "to": "46"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "659",
+        "sentence": "Just wish they'd expand.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2350",
+        "sentence": "My boyfriend ate tuna and it was cooked perfectly!",
+        "aspect_terms": [
+            {
+                "term": "tuna",
+                "polarity": "positive",
+                "from": "17",
+                "to": "21"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1119",
+        "sentence": "This wasn't the expected menu comprised only of pad thai and tom yum soup, but I thought that was what made the place so special.",
+        "aspect_terms": [
+            {
+                "term": "menu",
+                "polarity": "neutral",
+                "from": "25",
+                "to": "29"
+            },
+            {
+                "term": "pad thai",
+                "polarity": "neutral",
+                "from": "48",
+                "to": "56"
+            },
+            {
+                "term": "tom yum soup",
+                "polarity": "neutral",
+                "from": "61",
+                "to": "73"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1158",
+        "sentence": "Good food at the restaurant (a bit expensive, but great if you want to impress your date).",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "5",
+                "to": "9"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "220",
+        "sentence": "I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service.",
+        "aspect_terms": [
+            {
+                "term": "caviar",
+                "polarity": "positive",
+                "from": "72",
+                "to": "78"
+            },
+            {
+                "term": "service",
+                "polarity": "positive",
+                "from": "93",
+                "to": "100"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2285",
+        "sentence": "You can't say its cheap because food is cheaper in Chinatown.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "conflict",
+                "from": "32",
+                "to": "36"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "price",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3254",
+        "sentence": "I have eaten there 3-4 times and the food was always good.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "37",
+                "to": "41"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1351",
+        "sentence": "keep up the good work.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2216",
+        "sentence": "I wasn't thrilled to have to wait on line for thirty minutes, but I guess that's the price you pay for a popular place.",
+        "aspect_terms": [
+            {
+                "term": "wait",
+                "polarity": "negative",
+                "from": "29",
+                "to": "33"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1467",
+        "sentence": "great eats, good times.",
+        "aspect_terms": [
+            {
+                "term": "eats",
+                "polarity": "positive",
+                "from": "6",
+                "to": "10"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            },
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "555",
+        "sentence": "Make sure you try this place as often as you can.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "970",
+        "sentence": "Grilled whole fish wonderful, great spicing.",
+        "aspect_terms": [
+            {
+                "term": "fish",
+                "polarity": "positive",
+                "from": "14",
+                "to": "18"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3506",
+        "sentence": "For years, I thought Tuscan cuisine was the best, but Salvatore converted me to the hearty Neapolitan fare on my first visit.",
+        "aspect_terms": [
+            {
+                "term": "Tuscan cuisine",
+                "polarity": "conflict",
+                "from": "21",
+                "to": "35"
+            },
+            {
+                "term": "Neapolitan fare",
+                "polarity": "positive",
+                "from": "91",
+                "to": "106"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1123",
+        "sentence": "Plus, when our entrees were held up in the kitchen on a busy Saturday night, the owner sent over complimentary summer rolls to hold us over!",
+        "aspect_terms": [
+            {
+                "term": "entrees",
+                "polarity": "negative",
+                "from": "15",
+                "to": "22"
+            },
+            {
+                "term": "summer rolls",
+                "polarity": "positive",
+                "from": "111",
+                "to": "123"
+            },
+            {
+                "term": "owner",
+                "polarity": "positive",
+                "from": "81",
+                "to": "86"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2314",
+        "sentence": "The service was great as well.",
+        "aspect_terms": [
+            {
+                "term": "service",
+                "polarity": "positive",
+                "from": "4",
+                "to": "11"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "397",
+        "sentence": "Try the lobster teriyaki and the rose special roll.",
+        "aspect_terms": [
+            {
+                "term": "lobster teriyaki",
+                "polarity": "positive",
+                "from": "8",
+                "to": "24"
+            },
+            {
+                "term": "rose special roll",
+                "polarity": "positive",
+                "from": "33",
+                "to": "50"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1395",
+        "sentence": "Another plus is most of the entrees are approx.",
+        "aspect_terms": [
+            {
+                "term": "entrees",
+                "polarity": "positive",
+                "from": "28",
+                "to": "35"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2246",
+        "sentence": "I will go back to Suan soon!",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "60",
+        "sentence": "Loved it!",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2987",
+        "sentence": "The food was delicious, the atmosphere was relaxed, and we have now adopted Plate 347 as our Secret on Second!",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "4",
+                "to": "8"
+            },
+            {
+                "term": "atmosphere",
+                "polarity": "positive",
+                "from": "28",
+                "to": "38"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "463",
+        "sentence": "We were pleasantly surprised.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3457",
+        "sentence": "From the moment we walked in they were more than accomodating even though the place was packed.",
+        "aspect_terms": [
+            {
+                "term": "place",
+                "polarity": "negative",
+                "from": "78",
+                "to": "83"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            },
+            {
+                "category": "ambience",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3473",
+        "sentence": "It is LOUD, HOT and DARK.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "938",
+        "sentence": "I found the food, service and value exceptional everytime I have been there.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "12",
+                "to": "16"
+            },
+            {
+                "term": "service",
+                "polarity": "positive",
+                "from": "18",
+                "to": "25"
+            },
+            {
+                "term": "value",
+                "polarity": "positive",
+                "from": "30",
+                "to": "35"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "service",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3177",
+        "sentence": "We ate at this Thai place following the reviews but very unhappy with the foods.",
+        "aspect_terms": [
+            {
+                "term": "foods",
+                "polarity": "negative",
+                "from": "74",
+                "to": "79"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            },
+            {
+                "category": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2931",
+        "sentence": "The food is definitely good, but I left a bit disappointed.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "4",
+                "to": "8"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "conflict"
+            },
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3017",
+        "sentence": "I am a 100 lb girl, had a glass of wine and a glass of beer prior to the dinner, and I was still HUNGRY after my visit to this place!",
+        "aspect_terms": [
+            {
+                "term": "glass of wine",
+                "polarity": "neutral",
+                "from": "26",
+                "to": "39"
+            },
+            {
+                "term": "glass of beer",
+                "polarity": "neutral",
+                "from": "46",
+                "to": "59"
+            },
+            {
+                "term": "dinner",
+                "polarity": "neutral",
+                "from": "73",
+                "to": "79"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            },
+            {
+                "category": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1366",
+        "sentence": "The drinks are a saving grace, but service staff, please, get over yourselves.",
+        "aspect_terms": [
+            {
+                "term": "drinks",
+                "polarity": "positive",
+                "from": "4",
+                "to": "10"
+            },
+            {
+                "term": "service staff",
+                "polarity": "negative",
+                "from": "35",
+                "to": "48"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1613",
+        "sentence": "It was wonderful.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2309",
+        "sentence": "There is a downside if you're ordering in -- the delivery guys have MAJOR attitude.",
+        "aspect_terms": [
+            {
+                "term": "delivery guys",
+                "polarity": "negative",
+                "from": "49",
+                "to": "62"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1905",
+        "sentence": "Will give it another chance before I write it off.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2785",
+        "sentence": "The all-Italian staff is warm and engaging from the start.",
+        "aspect_terms": [
+            {
+                "term": "staff",
+                "polarity": "positive",
+                "from": "16",
+                "to": "21"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1946",
+        "sentence": "Village is one of those places that scores on all fronts.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1638",
+        "sentence": "The prices are exceptionally reasonable for food of this caliber.",
+        "aspect_terms": [
+            {
+                "term": "prices",
+                "polarity": "positive",
+                "from": "4",
+                "to": "10"
+            },
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "44",
+                "to": "48"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "price",
+                "polarity": "positive"
+            },
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2472",
+        "sentence": "If you go here - your focus should be the Tamarind Margaritas.",
+        "aspect_terms": [
+            {
+                "term": "Tamarind Margaritas",
+                "polarity": "positive",
+                "from": "42",
+                "to": "61"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "544",
+        "sentence": "It is the best hidden spot there and I rave about it to everyone.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "260",
+        "sentence": "The filet mignon dish was superb!",
+        "aspect_terms": [
+            {
+                "term": "filet mignon dish",
+                "polarity": "positive",
+                "from": "4",
+                "to": "21"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3482",
+        "sentence": "I had been a regular due to the consistently good food and ease of getting a table.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "50",
+                "to": "54"
+            },
+            {
+                "term": "getting a table",
+                "polarity": "positive",
+                "from": "67",
+                "to": "82"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            },
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "695",
+        "sentence": "Can't wait wait for my next visit.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2807",
+        "sentence": "This place is the most Japanese it can ever get.",
+        "aspect_terms": [
+            {
+                "term": "place",
+                "polarity": "positive",
+                "from": "5",
+                "to": "10"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3120",
+        "sentence": "The food is good, I can't lie.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "4",
+                "to": "8"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3590",
+        "sentence": "great food, lt's of it, more then one person can eat!",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "6",
+                "to": "10"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1534",
+        "sentence": "I didn't expect to like Nosh as much as I did, but the pastrami on challah sandwich I had was otherworldly, the soups are like Mom's, and the knishes give Yonah Schimmel's a run for its money.",
+        "aspect_terms": [
+            {
+                "term": "pastrami on challah sandwich",
+                "polarity": "positive",
+                "from": "55",
+                "to": "83"
+            },
+            {
+                "term": "soups",
+                "polarity": "positive",
+                "from": "112",
+                "to": "117"
+            },
+            {
+                "term": "knishes",
+                "polarity": "positive",
+                "from": "142",
+                "to": "149"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1778",
+        "sentence": "The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo.",
+        "aspect_terms": [
+            {
+                "term": "atmosphere",
+                "polarity": "neutral",
+                "from": "4",
+                "to": "14"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3071",
+        "sentence": "Cozy romantic atomosphere with only around 15 tables at most.",
+        "aspect_terms": [
+            {
+                "term": "atomosphere",
+                "polarity": "positive",
+                "from": "14",
+                "to": "25"
+            },
+            {
+                "term": "tables",
+                "polarity": "positive",
+                "from": "46",
+                "to": "52"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "47",
+        "sentence": "This place is worth going even if only for their beer.",
+        "aspect_terms": [
+            {
+                "term": "beer",
+                "polarity": "positive",
+                "from": "49",
+                "to": "53"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2995",
+        "sentence": "I really like both the scallops and the mahi mahi (on saffron risotto-yum!).",
+        "aspect_terms": [
+            {
+                "term": "scallops",
+                "polarity": "positive",
+                "from": "23",
+                "to": "31"
+            },
+            {
+                "term": "mahi mahi (on saffron risotto",
+                "polarity": "positive",
+                "from": "40",
+                "to": "69"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2215",
+        "sentence": "The ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.",
+        "aspect_terms": [
+            {
+                "term": "ambience",
+                "polarity": "positive",
+                "from": "4",
+                "to": "12"
+            },
+            {
+                "term": "prices",
+                "polarity": "positive",
+                "from": "33",
+                "to": "39"
+            },
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "80",
+                "to": "84"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2100",
+        "sentence": "Do not get the Go Go Hamburgers, no matter what the reviews say.",
+        "aspect_terms": [
+            {
+                "term": "Go Go Hamburgers",
+                "polarity": "negative",
+                "from": "15",
+                "to": "31"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "479",
+        "sentence": "The sandwhiches are out-of-this world!",
+        "aspect_terms": [
+            {
+                "term": "sandwhiches",
+                "polarity": "positive",
+                "from": "4",
+                "to": "15"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3379",
+        "sentence": "If you live in Upper Manhattan, Siam Square is THE place for Thia food.",
+        "aspect_terms": [
+            {
+                "term": "Thia food",
+                "polarity": "positive",
+                "from": "61",
+                "to": "70"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1733",
+        "sentence": "Decor is charming.",
+        "aspect_terms": [
+            {
+                "term": "Decor",
+                "polarity": "positive",
+                "from": "0",
+                "to": "5"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1885",
+        "sentence": "The food was very well prepared.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "4",
+                "to": "8"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1358",
+        "sentence": "Really tasty spring rolls and noodles for a good price though.",
+        "aspect_terms": [
+            {
+                "term": "spring rolls",
+                "polarity": "positive",
+                "from": "13",
+                "to": "25"
+            },
+            {
+                "term": "noodles",
+                "polarity": "positive",
+                "from": "30",
+                "to": "37"
+            },
+            {
+                "term": "price",
+                "polarity": "positive",
+                "from": "49",
+                "to": "54"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3533",
+        "sentence": "Stay away from this place.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2389",
+        "sentence": "Good, because hey, it's more food, but bad because dim sum is supposed to be smaller portions so you can try out more dishes and smaller so that each dish is cheap.",
+        "aspect_terms": [
+            {
+                "term": "dim sum",
+                "polarity": "negative",
+                "from": "51",
+                "to": "58"
+            },
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "29",
+                "to": "33"
+            },
+            {
+                "term": "portions",
+                "polarity": "negative",
+                "from": "85",
+                "to": "93"
+            },
+            {
+                "term": "dishes",
+                "polarity": "neutral",
+                "from": "118",
+                "to": "124"
+            },
+            {
+                "term": "dish",
+                "polarity": "neutral",
+                "from": "150",
+                "to": "154"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3087",
+        "sentence": "While most people can attest to spending over $50 on drinks in New York bars and hardly feeling a thing, the drinks here are plentiful and unique.",
+        "aspect_terms": [
+            {
+                "term": "drinks",
+                "polarity": "negative",
+                "from": "53",
+                "to": "59"
+            },
+            {
+                "term": "bars",
+                "polarity": "negative",
+                "from": "72",
+                "to": "76"
+            },
+            {
+                "term": "drinks",
+                "polarity": "positive",
+                "from": "109",
+                "to": "115"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "conflict"
+            },
+            {
+                "category": "price",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2847",
+        "sentence": "Complimentary stuff kept coming, and when the waiter saw me opening a gift, I received my dessert on a plate that had Happy Birthday written on it, with a candlevery nice touch, and attentive staff.",
+        "aspect_terms": [
+            {
+                "term": "stuff",
+                "polarity": "positive",
+                "from": "14",
+                "to": "19"
+            },
+            {
+                "term": "waiter",
+                "polarity": "positive",
+                "from": "46",
+                "to": "52"
+            },
+            {
+                "term": "dessert",
+                "polarity": "positive",
+                "from": "90",
+                "to": "97"
+            },
+            {
+                "term": "staff",
+                "polarity": "positive",
+                "from": "192",
+                "to": "197"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "418",
+        "sentence": "The food arrived 20 minutes after I called, cold and soggy.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "negative",
+                "from": "4",
+                "to": "8"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            },
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "871",
+        "sentence": "If you go for the pre-theatre menu, it's an even greater deal.",
+        "aspect_terms": [
+            {
+                "term": "pre-theatre menu",
+                "polarity": "positive",
+                "from": "18",
+                "to": "34"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1556",
+        "sentence": "The one up front will smile and say What can I get for you, brother?",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "355",
+        "sentence": "Brava La Pizza Fresca!",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3266",
+        "sentence": "If you are someone who appreciates simplicity, elegance, and wonderfully presented and tasting seafood and vegetables regardless of portion size, Kai is your place.",
+        "aspect_terms": [
+            {
+                "term": "seafood",
+                "polarity": "positive",
+                "from": "95",
+                "to": "102"
+            },
+            {
+                "term": "vegetables",
+                "polarity": "positive",
+                "from": "107",
+                "to": "117"
+            },
+            {
+                "term": "portion size",
+                "polarity": "negative",
+                "from": "132",
+                "to": "144"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "966",
+        "sentence": "The prices cannot be beat for the quality, quantity, freshness and taste.",
+        "aspect_terms": [
+            {
+                "term": "prices",
+                "polarity": "positive",
+                "from": "4",
+                "to": "10"
+            },
+            {
+                "term": "quality",
+                "polarity": "positive",
+                "from": "34",
+                "to": "41"
+            },
+            {
+                "term": "quantity",
+                "polarity": "positive",
+                "from": "43",
+                "to": "51"
+            },
+            {
+                "term": "freshness",
+                "polarity": "positive",
+                "from": "53",
+                "to": "62"
+            },
+            {
+                "term": "taste",
+                "polarity": "positive",
+                "from": "67",
+                "to": "72"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "price",
+                "polarity": "positive"
+            },
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "980",
+        "sentence": "Check it out, it won't hurt your stomach or your wallet.",
+        "aspect_terms": [
+            {
+                "term": "stomach",
+                "polarity": "positive",
+                "from": "33",
+                "to": "40"
+            },
+            {
+                "term": "wallet",
+                "polarity": "positive",
+                "from": "49",
+                "to": "55"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            },
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "167",
+        "sentence": "If just to drop in, quickly stuff yourself and jet out -- to keep their turn-over.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2546",
+        "sentence": "Little Tonino's is just awesome, our favorite delivery place in Kennsington, honestly the best Gnochi I have ever had!",
+        "aspect_terms": [
+            {
+                "term": "Gnochi",
+                "polarity": "positive",
+                "from": "95",
+                "to": "101"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "937",
+        "sentence": "INCREDIBLY POOR SERVICE AN FOOD QUALITY AT EXORBITANT PRICES.",
+        "aspect_terms": [
+            {
+                "term": "SERVICE",
+                "polarity": "negative",
+                "from": "16",
+                "to": "23"
+            },
+            {
+                "term": "FOOD QUALITY",
+                "polarity": "negative",
+                "from": "27",
+                "to": "39"
+            },
+            {
+                "term": "PRICES",
+                "polarity": "negative",
+                "from": "54",
+                "to": "60"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            },
+            {
+                "category": "service",
+                "polarity": "negative"
+            },
+            {
+                "category": "price",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2712",
+        "sentence": "I have been about 4 times and have always had a great meal.",
+        "aspect_terms": [
+            {
+                "term": "meal",
+                "polarity": "positive",
+                "from": "54",
+                "to": "58"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1170",
+        "sentence": "I go back in line like three times on average until I can't walk anymore.",
+        "aspect_terms": [
+            {
+                "term": "line",
+                "polarity": "negative",
+                "from": "13",
+                "to": "17"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3043",
+        "sentence": "We usually just get some of the dinner specials and they are very reasonably priced and very tasty.",
+        "aspect_terms": [
+            {
+                "term": "dinner specials",
+                "polarity": "positive",
+                "from": "32",
+                "to": "47"
+            },
+            {
+                "term": "priced",
+                "polarity": "positive",
+                "from": "77",
+                "to": "83"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "41",
+        "sentence": "Horrible food and Horrible service.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "negative",
+                "from": "9",
+                "to": "13"
+            },
+            {
+                "term": "service",
+                "polarity": "negative",
+                "from": "27",
+                "to": "34"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            },
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3677",
+        "sentence": "The wine and cheese plate are plentiful and can't wait to try the fondue or table grilling.",
+        "aspect_terms": [
+            {
+                "term": "wine",
+                "polarity": "positive",
+                "from": "4",
+                "to": "8"
+            },
+            {
+                "term": "cheese",
+                "polarity": "positive",
+                "from": "13",
+                "to": "19"
+            },
+            {
+                "term": "fondue",
+                "polarity": "positive",
+                "from": "66",
+                "to": "72"
+            },
+            {
+                "term": "table grilling",
+                "polarity": "positive",
+                "from": "76",
+                "to": "90"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1485",
+        "sentence": "Bleecker St Pizza is the best!",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "42",
+        "sentence": "I DO NOT RECOMMEND THE HEARTLAND BREWERY.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1326",
+        "sentence": "They treated us well and the food was extremely fresh and well-prepared.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "29",
+                "to": "33"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2400",
+        "sentence": "Their exotic salad is basic ly a delcious little green salad with a peanut sauce that is perfect before their sweet basil fried tofu.",
+        "aspect_terms": [
+            {
+                "term": "exotic salad",
+                "polarity": "positive",
+                "from": "6",
+                "to": "18"
+            },
+            {
+                "term": "green salad",
+                "polarity": "positive",
+                "from": "49",
+                "to": "60"
+            },
+            {
+                "term": "sweet basil fried tofu",
+                "polarity": "positive",
+                "from": "110",
+                "to": "132"
+            },
+            {
+                "term": "peanut sauce",
+                "polarity": "positive",
+                "from": "68",
+                "to": "80"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3171",
+        "sentence": "THE BIG COMPLAINT: NO TOASTING AVAILABLE.",
+        "aspect_terms": [
+            {
+                "term": "TOASTING",
+                "polarity": "negative",
+                "from": "22",
+                "to": "30"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2998",
+        "sentence": "Even if the food wasn't this good, the garden is a great place to sit outside and relax.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "12",
+                "to": "16"
+            },
+            {
+                "term": "garden",
+                "polarity": "positive",
+                "from": "39",
+                "to": "45"
+            },
+            {
+                "term": "place",
+                "polarity": "positive",
+                "from": "57",
+                "to": "62"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1627",
+        "sentence": "Volare virgins or weekly regulars, everyone gets treated the same and you can't ask for more than that when the service is this friendly.",
+        "aspect_terms": [
+            {
+                "term": "service",
+                "polarity": "positive",
+                "from": "112",
+                "to": "119"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "739",
+        "sentence": "The food came out wrong, the waiter was no where to be found and the wine showed up at the end of the meal.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "negative",
+                "from": "4",
+                "to": "8"
+            },
+            {
+                "term": "waiter",
+                "polarity": "negative",
+                "from": "29",
+                "to": "35"
+            },
+            {
+                "term": "wine",
+                "polarity": "negative",
+                "from": "69",
+                "to": "73"
+            },
+            {
+                "term": "meal",
+                "polarity": "neutral",
+                "from": "102",
+                "to": "106"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            },
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2492",
+        "sentence": "The chicken and steak were seasoned and cooked to perfection, and the lamb sandwhich is great for heartier appetites.",
+        "aspect_terms": [
+            {
+                "term": "chicken",
+                "polarity": "positive",
+                "from": "4",
+                "to": "11"
+            },
+            {
+                "term": "steak",
+                "polarity": "positive",
+                "from": "16",
+                "to": "21"
+            },
+            {
+                "term": "lamb sandwhich",
+                "polarity": "positive",
+                "from": "70",
+                "to": "84"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2198",
+        "sentence": "Faan is sooo good.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2390",
+        "sentence": "We saw them heating up at least one frozen item though I'm not sure which dim sum dish it was.",
+        "aspect_terms": [
+            {
+                "term": "dim sum dish",
+                "polarity": "negative",
+                "from": "74",
+                "to": "86"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3467",
+        "sentence": "No you're going to go back because the food was good.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "39",
+                "to": "43"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            },
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "334",
+        "sentence": "The food was great and the service was even better.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "4",
+                "to": "8"
+            },
+            {
+                "term": "service",
+                "polarity": "positive",
+                "from": "27",
+                "to": "34"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1558",
+        "sentence": "While this can hardly be called a restaurant, it is possibly the best deal in Manhatten: $4 for a plate heaped with rice and 2-3 entrees.",
+        "aspect_terms": [
+            {
+                "term": "rice",
+                "polarity": "positive",
+                "from": "116",
+                "to": "120"
+            },
+            {
+                "term": "entrees",
+                "polarity": "positive",
+                "from": "129",
+                "to": "136"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "negative"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "913",
+        "sentence": "Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation.",
+        "aspect_terms": [
+            {
+                "term": "Traditional French decour",
+                "polarity": "positive",
+                "from": "0",
+                "to": "25"
+            },
+            {
+                "term": "hall",
+                "polarity": "negative",
+                "from": "50",
+                "to": "54"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3003",
+        "sentence": "The fish is fresh and each piece is sliced to perfection and seasoned by the sushi chef (usually with a little fresh wasabi and soy sauce but also sometimes with some sea salt).",
+        "aspect_terms": [
+            {
+                "term": "fish",
+                "polarity": "positive",
+                "from": "4",
+                "to": "8"
+            },
+            {
+                "term": "sushi chef",
+                "polarity": "positive",
+                "from": "77",
+                "to": "87"
+            },
+            {
+                "term": "wasabi",
+                "polarity": "positive",
+                "from": "117",
+                "to": "123"
+            },
+            {
+                "term": "soy sauce",
+                "polarity": "positive",
+                "from": "128",
+                "to": "137"
+            },
+            {
+                "term": "sea salt",
+                "polarity": "positive",
+                "from": "167",
+                "to": "175"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3583",
+        "sentence": "Consequently, their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them.",
+        "aspect_terms": [
+            {
+                "term": "burgers",
+                "polarity": "negative",
+                "from": "20",
+                "to": "27"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            },
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3581",
+        "sentence": "My son and his girlfriend both wanted cheeseburgers and they were huge!",
+        "aspect_terms": [
+            {
+                "term": "cheeseburgers",
+                "polarity": "positive",
+                "from": "38",
+                "to": "51"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2435",
+        "sentence": "I really recommend the very simple Unda (Egg) rolls.",
+        "aspect_terms": [
+            {
+                "term": "Unda (Egg) rolls",
+                "polarity": "positive",
+                "from": "35",
+                "to": "51"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3704",
+        "sentence": "I will not be coming here at 3am again.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3200",
+        "sentence": "Unbelievable.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "943",
+        "sentence": "Very good wine choices.",
+        "aspect_terms": [
+            {
+                "term": "wine choices",
+                "polarity": "positive",
+                "from": "10",
+                "to": "22"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2516",
+        "sentence": "This is the only Thai place I go too in NYC, it's wonderful, and live relaxed Jazz on certain nights.",
+        "aspect_terms": [
+            {
+                "term": "Jazz",
+                "polarity": "positive",
+                "from": "78",
+                "to": "82"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3428",
+        "sentence": "We will be back.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3647",
+        "sentence": "We were seated and ignored by waitstaff.",
+        "aspect_terms": [
+            {
+                "term": "waitstaff",
+                "polarity": "negative",
+                "from": "30",
+                "to": "39"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "784",
+        "sentence": "If you are in a big group, this place is perfect because it recomends sharing - they have lazy susans on most tables - even families can feel comfortable here.",
+        "aspect_terms": [
+            {
+                "term": "lazy susans",
+                "polarity": "positive",
+                "from": "90",
+                "to": "101"
+            },
+            {
+                "term": "tables",
+                "polarity": "positive",
+                "from": "110",
+                "to": "116"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1540",
+        "sentence": "They showed up 15 minutes after the tuna melt.",
+        "aspect_terms": [
+            {
+                "term": "tuna",
+                "polarity": "positive",
+                "from": "36",
+                "to": "40"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1980",
+        "sentence": "Tasty steak, pork loin, the works.",
+        "aspect_terms": [
+            {
+                "term": "steak",
+                "polarity": "positive",
+                "from": "6",
+                "to": "11"
+            },
+            {
+                "term": "pork loin",
+                "polarity": "positive",
+                "from": "13",
+                "to": "22"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "292",
+        "sentence": "I went with 5 friends and we lingered at the table for a bit and didn't feel rushed at all even though there was a wait.",
+        "aspect_terms": [
+            {
+                "term": "table",
+                "polarity": "neutral",
+                "from": "45",
+                "to": "50"
+            },
+            {
+                "term": "wait",
+                "polarity": "negative",
+                "from": "115",
+                "to": "119"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "774",
+        "sentence": "I went to Ruby Foos for my birthday and enjoyed our experience there.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "687",
+        "sentence": "I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service.",
+        "aspect_terms": [
+            {
+                "term": "setting",
+                "polarity": "positive",
+                "from": "75",
+                "to": "82"
+            },
+            {
+                "term": "service",
+                "polarity": "positive",
+                "from": "92",
+                "to": "99"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            },
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "732",
+        "sentence": "The burger was great, also.",
+        "aspect_terms": [
+            {
+                "term": "burger",
+                "polarity": "positive",
+                "from": "4",
+                "to": "10"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1508",
+        "sentence": "they did give a 15% discount at the end, wasn't enough, as they knew the service was horrible.",
+        "aspect_terms": [
+            {
+                "term": "discount",
+                "polarity": "negative",
+                "from": "20",
+                "to": "28"
+            },
+            {
+                "term": "service",
+                "polarity": "negative",
+                "from": "73",
+                "to": "80"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            },
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "705",
+        "sentence": "Just because it's cheap does NOT mean the portions are small or the food is nasty, IT IS GREAT!",
+        "aspect_terms": [
+            {
+                "term": "portions",
+                "polarity": "positive",
+                "from": "42",
+                "to": "50"
+            },
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "68",
+                "to": "72"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1610",
+        "sentence": "The pizza was great.",
+        "aspect_terms": [
+            {
+                "term": "pizza",
+                "polarity": "positive",
+                "from": "4",
+                "to": "9"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3479",
+        "sentence": "And everytime I go there's a bunch of drunk idiots making a scene out front.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1139",
+        "sentence": "I had never had Edamame pureed before but I thought it was innovative and tasty (could've used a bit more salt).",
+        "aspect_terms": [
+            {
+                "term": "Edamame pureed",
+                "polarity": "positive",
+                "from": "16",
+                "to": "30"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1808",
+        "sentence": "however, it's the service that leaves a bad taste in my mouth.",
+        "aspect_terms": [
+            {
+                "term": "service",
+                "polarity": "negative",
+                "from": "18",
+                "to": "25"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2933",
+        "sentence": "When we notified him that he didn't mention the specials, he didn't apologize but let us know that we made a very good decision regardless.",
+        "aspect_terms": [
+            {
+                "term": "specials",
+                "polarity": "neutral",
+                "from": "48",
+                "to": "56"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2226",
+        "sentence": "The price was extremely reasonable for the appetizers and food we ate.",
+        "aspect_terms": [
+            {
+                "term": "price",
+                "polarity": "positive",
+                "from": "4",
+                "to": "9"
+            },
+            {
+                "term": "appetizers",
+                "polarity": "positive",
+                "from": "43",
+                "to": "53"
+            },
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "58",
+                "to": "62"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2066",
+        "sentence": "Don't dine at Tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",
+        "aspect_terms": [
+            {
+                "term": "vegetarian dishes",
+                "polarity": "negative",
+                "from": "31",
+                "to": "48"
+            },
+            {
+                "term": "non-veg selections",
+                "polarity": "positive",
+                "from": "89",
+                "to": "107"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3362",
+        "sentence": "Kenny the owner is always there and he treats my family like we are part of his family.",
+        "aspect_terms": [
+            {
+                "term": "owner",
+                "polarity": "positive",
+                "from": "10",
+                "to": "15"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2197",
+        "sentence": "They need a kick out of it but until then the sushi is pretty good and the place is consistent.",
+        "aspect_terms": [
+            {
+                "term": "sushi",
+                "polarity": "positive",
+                "from": "46",
+                "to": "51"
+            },
+            {
+                "term": "place",
+                "polarity": "positive",
+                "from": "75",
+                "to": "80"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "547",
+        "sentence": "I've had to wait only a few times during lunch but this place is definitely worth the wait.",
+        "aspect_terms": [
+            {
+                "term": "lunch",
+                "polarity": "neutral",
+                "from": "41",
+                "to": "46"
+            },
+            {
+                "term": "wait",
+                "polarity": "positive",
+                "from": "86",
+                "to": "90"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2782",
+        "sentence": "All in all the food was above average and I would return to see how they operate with four or less dinners.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "15",
+                "to": "19"
+            },
+            {
+                "term": "dinners",
+                "polarity": "neutral",
+                "from": "99",
+                "to": "106"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3046",
+        "sentence": "Judging from previous posts this used to be a good place, but not any longer.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1398",
+        "sentence": "Delicious food, excellent service, and a pretty atmosphere make this a great choice for dinner and the $5.99 lunch buffet makes it an even better choice for lunch!",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "10",
+                "to": "14"
+            },
+            {
+                "term": "service",
+                "polarity": "positive",
+                "from": "26",
+                "to": "33"
+            },
+            {
+                "term": "atmosphere",
+                "polarity": "positive",
+                "from": "48",
+                "to": "58"
+            },
+            {
+                "term": "lunch buffet",
+                "polarity": "positive",
+                "from": "109",
+                "to": "121"
+            },
+            {
+                "term": "dinner",
+                "polarity": "positive",
+                "from": "88",
+                "to": "94"
+            },
+            {
+                "term": "lunch",
+                "polarity": "positive",
+                "from": "157",
+                "to": "162"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "service",
+                "polarity": "positive"
+            },
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2406",
+        "sentence": "For appetizers, I recommend the shrimp fritters and dumplings.",
+        "aspect_terms": [
+            {
+                "term": "appetizers",
+                "polarity": "neutral",
+                "from": "4",
+                "to": "14"
+            },
+            {
+                "term": "shrimp fritters",
+                "polarity": "positive",
+                "from": "32",
+                "to": "47"
+            },
+            {
+                "term": "dumplings",
+                "polarity": "positive",
+                "from": "52",
+                "to": "61"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1178",
+        "sentence": "And cheap!",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3625",
+        "sentence": "Such nice people working here - but I have to review the food.",
+        "aspect_terms": [
+            {
+                "term": "people",
+                "polarity": "positive",
+                "from": "10",
+                "to": "16"
+            },
+            {
+                "term": "food",
+                "polarity": "neutral",
+                "from": "57",
+                "to": "61"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "neutral"
+            },
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2652",
+        "sentence": "The restaurant is dark and not very attractive and then you have spot lights shining on you putting you in the worst light possible, reaching for sunglasses.",
+        "aspect_terms": [
+            {
+                "term": "spot lights",
+                "polarity": "negative",
+                "from": "65",
+                "to": "76"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "930",
+        "sentence": "Try the Times Square cocktail -- ginger lemonade with vodka (also available without vodka.)",
+        "aspect_terms": [
+            {
+                "term": "Times Square cocktail",
+                "polarity": "positive",
+                "from": "8",
+                "to": "29"
+            },
+            {
+                "term": "ginger lemonade with vodka",
+                "polarity": "positive",
+                "from": "33",
+                "to": "59"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2710",
+        "sentence": "Nice find.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "444",
+        "sentence": "Veal Parmigana - Better than Patsy's!",
+        "aspect_terms": [
+            {
+                "term": "Veal Parmigana",
+                "polarity": "positive",
+                "from": "0",
+                "to": "14"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2467",
+        "sentence": "Great wine, great food.",
+        "aspect_terms": [
+            {
+                "term": "wine",
+                "polarity": "positive",
+                "from": "6",
+                "to": "10"
+            },
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "18",
+                "to": "22"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1038",
+        "sentence": "The service was mediocre, and the lack of air conditioning made for a less than comfortable meal.",
+        "aspect_terms": [
+            {
+                "term": "service",
+                "polarity": "neutral",
+                "from": "4",
+                "to": "11"
+            },
+            {
+                "term": "air conditioning",
+                "polarity": "negative",
+                "from": "42",
+                "to": "58"
+            },
+            {
+                "term": "meal",
+                "polarity": "negative",
+                "from": "92",
+                "to": "96"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "neutral"
+            },
+            {
+                "category": "ambience",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1921",
+        "sentence": "The food and staff always surprise me with the new heights they are taken to.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "4",
+                "to": "8"
+            },
+            {
+                "term": "staff",
+                "polarity": "positive",
+                "from": "13",
+                "to": "18"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2437",
+        "sentence": "Amazing!",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3494",
+        "sentence": "Went to Ottimo and was expecting outstanding pizza (as I love La Pizza Fresca).",
+        "aspect_terms": [
+            {
+                "term": "pizza",
+                "polarity": "neutral",
+                "from": "45",
+                "to": "50"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "783",
+        "sentence": "I've always been seated propmtly.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1093",
+        "sentence": "We try frequenting new restaurants all over the city, but any time that we  visit a restaurant other than Roth's we are always disappointed.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1770",
+        "sentence": "honestly the worst sushi my husband and i had in our entire lives.",
+        "aspect_terms": [
+            {
+                "term": "sushi",
+                "polarity": "negative",
+                "from": "19",
+                "to": "24"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "646",
+        "sentence": "There is nothing more pleasant than that.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2699",
+        "sentence": "I would recommend this place to anyone and would without a doubt come again.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "151",
+        "sentence": "However, if you want great food at a great price and don't mind the decor, you can't beat this place.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "27",
+                "to": "31"
+            },
+            {
+                "term": "price",
+                "polarity": "positive",
+                "from": "43",
+                "to": "48"
+            },
+            {
+                "term": "decor",
+                "polarity": "negative",
+                "from": "68",
+                "to": "73"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "ambience",
+                "polarity": "negative"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1423",
+        "sentence": "What makes this restaurant special are the authentic sichuan cooking and being the only one in NYC that offers authentic chongqing hotpot.",
+        "aspect_terms": [
+            {
+                "term": "sichuan cooking",
+                "polarity": "positive",
+                "from": "53",
+                "to": "68"
+            },
+            {
+                "term": "chongqing hotpot",
+                "polarity": "positive",
+                "from": "121",
+                "to": "137"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1047",
+        "sentence": "Mizu is the Japenese find in Grammercy.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "755",
+        "sentence": "For sure i will keep coming back because i feel really this restaurant deserves.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "562",
+        "sentence": "Our tiny table for two (dinner plates hung over edge) was right in the middle of one of the lanes of waiter traffic.",
+        "aspect_terms": [
+            {
+                "term": "table",
+                "polarity": "negative",
+                "from": "9",
+                "to": "14"
+            },
+            {
+                "term": "waiter traffic",
+                "polarity": "negative",
+                "from": "101",
+                "to": "115"
+            },
+            {
+                "term": "dinner plates",
+                "polarity": "negative",
+                "from": "24",
+                "to": "37"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3272",
+        "sentence": "Sake collection was excellent (Try Nanbu Bijin), but pricy.",
+        "aspect_terms": [
+            {
+                "term": "Sake collection",
+                "polarity": "conflict",
+                "from": "0",
+                "to": "15"
+            },
+            {
+                "term": "Nanbu Bijin",
+                "polarity": "positive",
+                "from": "35",
+                "to": "46"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "971",
+        "sentence": "Interesting other dishes for a change include chicken in curry sauce and salmon caserole.",
+        "aspect_terms": [
+            {
+                "term": "dishes",
+                "polarity": "positive",
+                "from": "18",
+                "to": "24"
+            },
+            {
+                "term": "chicken in curry sauc",
+                "polarity": "positive",
+                "from": "46",
+                "to": "67"
+            },
+            {
+                "term": "salmon caserole",
+                "polarity": "positive",
+                "from": "73",
+                "to": "88"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3258",
+        "sentence": "One of my favorite restaurants in the neighborhood.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "802",
+        "sentence": "One of my favorites though was the Angry Lobster, a cold lobster salad that was magnificent.",
+        "aspect_terms": [
+            {
+                "term": "Angry Lobster",
+                "polarity": "positive",
+                "from": "35",
+                "to": "48"
+            },
+            {
+                "term": "cold lobster salad",
+                "polarity": "positive",
+                "from": "52",
+                "to": "70"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2241",
+        "sentence": "I have to say that I am pleasantly suprised and I will most likely stop in again if I am in the neighborhood.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3103",
+        "sentence": "Ask for Usha, the nicest bartender in manhattan.",
+        "aspect_terms": [
+            {
+                "term": "bartender",
+                "polarity": "positive",
+                "from": "25",
+                "to": "34"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "299",
+        "sentence": "The service is outstanding and my crab-cake eggs benedict could not have been better.",
+        "aspect_terms": [
+            {
+                "term": "service",
+                "polarity": "positive",
+                "from": "4",
+                "to": "11"
+            },
+            {
+                "term": "crab-cake eggs benedict",
+                "polarity": "positive",
+                "from": "34",
+                "to": "57"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "629",
+        "sentence": "The place's decor and hidden bathrooms made for a good laugh.",
+        "aspect_terms": [
+            {
+                "term": "decor",
+                "polarity": "positive",
+                "from": "12",
+                "to": "17"
+            },
+            {
+                "term": "bathrooms",
+                "polarity": "positive",
+                "from": "29",
+                "to": "38"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1939",
+        "sentence": "This is a true gem of the village.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2243",
+        "sentence": "Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.",
+        "aspect_terms": [
+            {
+                "term": "location",
+                "polarity": "positive",
+                "from": "4",
+                "to": "12"
+            },
+            {
+                "term": "prices",
+                "polarity": "positive",
+                "from": "72",
+                "to": "78"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1572",
+        "sentence": "However, I think Jeckll and Hydes t is one of those places that is fun to do once.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2564",
+        "sentence": "They treat me like family, morning and night.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "482",
+        "sentence": "A wonderful place!",
+        "aspect_terms": [
+            {
+                "term": "place",
+                "polarity": "positive",
+                "from": "12",
+                "to": "17"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "622",
+        "sentence": "Please take my advice, go and try this place.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1851",
+        "sentence": "Service was on par but not wonderful.",
+        "aspect_terms": [
+            {
+                "term": "Service",
+                "polarity": "conflict",
+                "from": "0",
+                "to": "7"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "571",
+        "sentence": "for my birthday and we had an excellent time.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2526",
+        "sentence": "Deliveries often take up to an hour and the prices are higher than most other pizzerias in the area.",
+        "aspect_terms": [
+            {
+                "term": "Deliveries",
+                "polarity": "negative",
+                "from": "0",
+                "to": "10"
+            },
+            {
+                "term": "prices",
+                "polarity": "negative",
+                "from": "44",
+                "to": "50"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            },
+            {
+                "category": "price",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1300",
+        "sentence": "I went to Amma after a friend recommended it.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3464",
+        "sentence": "I'm just reading some of these reviews and its nonsense that people are reviewing some places because it was too loud.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2608",
+        "sentence": "Kind of a small place but I guess if they are not too busy might be able to fit a group or kids.",
+        "aspect_terms": [
+            {
+                "term": "place",
+                "polarity": "negative",
+                "from": "16",
+                "to": "21"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2704",
+        "sentence": "Maybe tomorrow ;-)",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1539",
+        "sentence": "We also ordered two hot dogs thinking they would be pretty good since there is a whole section on the menu devoted to them.",
+        "aspect_terms": [
+            {
+                "term": "hot dogs",
+                "polarity": "neutral",
+                "from": "20",
+                "to": "28"
+            },
+            {
+                "term": "menu",
+                "polarity": "neutral",
+                "from": "102",
+                "to": "106"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "neutral"
+            },
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3181",
+        "sentence": "please don't fool us.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3044",
+        "sentence": "I've had the chicken with garlic sauce, chicken with black bean sauce, and hunan chicken.",
+        "aspect_terms": [
+            {
+                "term": "chicken with garlic sauce",
+                "polarity": "neutral",
+                "from": "13",
+                "to": "38"
+            },
+            {
+                "term": "chicken with black bean sauce",
+                "polarity": "neutral",
+                "from": "40",
+                "to": "69"
+            },
+            {
+                "term": "hunan chicken",
+                "polarity": "neutral",
+                "from": "75",
+                "to": "88"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "448",
+        "sentence": "Because of the delicate thin crust, take-out pies get soggy in their boxes.",
+        "aspect_terms": [
+            {
+                "term": "take-out pies",
+                "polarity": "negative",
+                "from": "36",
+                "to": "49"
+            },
+            {
+                "term": "crust",
+                "polarity": "negative",
+                "from": "29",
+                "to": "34"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1633",
+        "sentence": "I suspect this restaurant is what Rao's would be if it hadn't turned exclusive.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1687",
+        "sentence": "The dish had like 6 pieces of beef in it.",
+        "aspect_terms": [
+            {
+                "term": "dish",
+                "polarity": "neutral",
+                "from": "4",
+                "to": "8"
+            },
+            {
+                "term": "beef",
+                "polarity": "neutral",
+                "from": "30",
+                "to": "34"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1466",
+        "sentence": "strike up a conversation with the attorney next to you, or with the local union worker on the other side.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "950",
+        "sentence": "We were then shooed inside.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3567",
+        "sentence": "We got in line and were served while in line a bannan fritter.",
+        "aspect_terms": [
+            {
+                "term": "bannan fritter",
+                "polarity": "neutral",
+                "from": "47",
+                "to": "61"
+            },
+            {
+                "term": "served",
+                "polarity": "neutral",
+                "from": "24",
+                "to": "30"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2224",
+        "sentence": "It might have been a little too spicy for my friend, which you can couteract with eat more rice and keeping water on hand.",
+        "aspect_terms": [
+            {
+                "term": "rice",
+                "polarity": "neutral",
+                "from": "91",
+                "to": "95"
+            },
+            {
+                "term": "water",
+                "polarity": "neutral",
+                "from": "108",
+                "to": "113"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "137",
+        "sentence": "This place is always very crowded and popular.",
+        "aspect_terms": [
+            {
+                "term": "place",
+                "polarity": "positive",
+                "from": "5",
+                "to": "10"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1462",
+        "sentence": "Appetizers are somewhere around $7 each and the main dishes are between $11 and $16.",
+        "aspect_terms": [
+            {
+                "term": "Appetizers",
+                "polarity": "neutral",
+                "from": "0",
+                "to": "10"
+            },
+            {
+                "term": "main dishes",
+                "polarity": "neutral",
+                "from": "48",
+                "to": "59"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "price",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1020",
+        "sentence": "really depends on your luck!",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3313",
+        "sentence": "Just went here for my girlfriends 23rd bday.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "897",
+        "sentence": "My wife and I went to Orsay for Valentine's dinner.",
+        "aspect_terms": [
+            {
+                "term": "dinner",
+                "polarity": "neutral",
+                "from": "44",
+                "to": "50"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3463",
+        "sentence": "I don't know about you guys, but when I go somewhere to eat I go for the food not for the atmosphere.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "neutral",
+                "from": "73",
+                "to": "77"
+            },
+            {
+                "term": "atmosphere",
+                "polarity": "neutral",
+                "from": "90",
+                "to": "100"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2794",
+        "sentence": "They should have called it mascarpone with chocolate chips-good but a far cry from what the name implies.",
+        "aspect_terms": [
+            {
+                "term": "mascarpone with chocolate chip",
+                "polarity": "conflict",
+                "from": "27",
+                "to": "57"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "conflict"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3511",
+        "sentence": "A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.",
+        "aspect_terms": [
+            {
+                "term": "manager",
+                "polarity": "negative",
+                "from": "23",
+                "to": "30"
+            },
+            {
+                "term": "gentleman",
+                "polarity": "negative",
+                "from": "2",
+                "to": "11"
+            },
+            {
+                "term": "table",
+                "polarity": "neutral",
+                "from": "44",
+                "to": "49"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2096",
+        "sentence": "Very different than regular dimsum places.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1967",
+        "sentence": "I have lived in NY for many years and have dined at many restaraunts.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3632",
+        "sentence": "When you enter, you feel like you have entered your mom's kitchen.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2114",
+        "sentence": "we were tired and cold when we got to the restaurant, then we sat down to begin ordering appetizers.",
+        "aspect_terms": [
+            {
+                "term": "appetizers",
+                "polarity": "neutral",
+                "from": "89",
+                "to": "99"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1605",
+        "sentence": "I've had pizza both times and the caprese salad appetizer.",
+        "aspect_terms": [
+            {
+                "term": "pizza",
+                "polarity": "neutral",
+                "from": "9",
+                "to": "14"
+            },
+            {
+                "term": "caprese salad appetizer",
+                "polarity": "neutral",
+                "from": "34",
+                "to": "57"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "747",
+        "sentence": "She lives nearby but had never gone to this establishment thinking that it might be too touristy.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1447",
+        "sentence": "He was terribly thirsty after the meal too.",
+        "aspect_terms": [
+            {
+                "term": "meal",
+                "polarity": "negative",
+                "from": "34",
+                "to": "38"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "543",
+        "sentence": "And when I visit her I make it a point to eat at 'Ino at least once daily if not once for the whole trip.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "402",
+        "sentence": "I wasn't there for the Half-Price Saturday Night Special, but Tuesday Night.",
+        "aspect_terms": [
+            {
+                "term": "Half-Price Saturday Night Special",
+                "polarity": "neutral",
+                "from": "23",
+                "to": "56"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3323",
+        "sentence": "In fact, it appears he is going to go postal at any moment.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1882",
+        "sentence": "There was a small group of us looking somewhere to eat kinda late on a weeknight and we ended up at Pastis.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "587",
+        "sentence": "for Meetball Night.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1430",
+        "sentence": "If you like the food and the value you get from some of Chinatown restaurants, this is not the place for you.",
+        "aspect_terms": [
+            {
+                "term": "food",
+                "polarity": "neutral",
+                "from": "16",
+                "to": "20"
+            },
+            {
+                "term": "value",
+                "polarity": "neutral",
+                "from": "29",
+                "to": "34"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2060",
+        "sentence": "They are opening two more places as i saw a flyer there one in Yonkers which is a restraunt and banquet hall and another one in parsipanny new jersey.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "639",
+        "sentence": "Want to impress?",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2325",
+        "sentence": "The selection changes frequently but the basic dishes are always available.",
+        "aspect_terms": [
+            {
+                "term": "selection",
+                "polarity": "neutral",
+                "from": "4",
+                "to": "13"
+            },
+            {
+                "term": "basic dishes",
+                "polarity": "neutral",
+                "from": "41",
+                "to": "53"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3619",
+        "sentence": "We've lived in the area for more than 8 years.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1536",
+        "sentence": "Get the soup and a nosh (pastrami sandwich) for $8 and you're golden.",
+        "aspect_terms": [
+            {
+                "term": "soup",
+                "polarity": "positive",
+                "from": "8",
+                "to": "12"
+            },
+            {
+                "term": "nosh (pastrami sandwich)",
+                "polarity": "positive",
+                "from": "19",
+                "to": "43"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            },
+            {
+                "category": "price",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2403",
+        "sentence": "I have to say that if this what makes it easier to get a saet a lunch- I dont mind.",
+        "aspect_terms": [
+            {
+                "term": "lunch",
+                "polarity": "neutral",
+                "from": "64",
+                "to": "69"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "810",
+        "sentence": "My family and I ate here last night for our annual Christmas dinner with the family members who would rather spend the holidays with friends out-of-town.",
+        "aspect_terms": [
+            {
+                "term": "Christmas dinner",
+                "polarity": "neutral",
+                "from": "51",
+                "to": "67"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2169",
+        "sentence": "I grew up on these bagels.",
+        "aspect_terms": [
+            {
+                "term": "bagels",
+                "polarity": "positive",
+                "from": "19",
+                "to": "25"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "564",
+        "sentence": "We were told that they were booked solid and no other table was available.",
+        "aspect_terms": [
+            {
+                "term": "table",
+                "polarity": "negative",
+                "from": "54",
+                "to": "59"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1908",
+        "sentence": "The restaraurant is very small so reservations are a must.",
+        "aspect_terms": [
+            {
+                "term": "reservations",
+                "polarity": "neutral",
+                "from": "34",
+                "to": "46"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2569",
+        "sentence": "Visited there while on vacation and reading the reviews.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2535",
+        "sentence": "A one women show!",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "330",
+        "sentence": "You can't go wrong here.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "902",
+        "sentence": "At first i was rolling my ideas of yet another French place on the UES.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "568",
+        "sentence": "To my right, the hostess stood over a busboy and hissed rapido, rapido as he tried to clear and re-set a table for six.",
+        "aspect_terms": [
+            {
+                "term": "hostess",
+                "polarity": "negative",
+                "from": "17",
+                "to": "24"
+            },
+            {
+                "term": "busboy",
+                "polarity": "neutral",
+                "from": "38",
+                "to": "44"
+            },
+            {
+                "term": "table",
+                "polarity": "neutral",
+                "from": "105",
+                "to": "110"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3133",
+        "sentence": "In China the phrase for a good restaurant is hot and loud.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2553",
+        "sentence": "After dealing with subpar pizza all over the Kensington neighborhood - I've found little toninos.",
+        "aspect_terms": [
+            {
+                "term": "pizza",
+                "polarity": "negative",
+                "from": "26",
+                "to": "31"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2624",
+        "sentence": "I thought this place was totally overrated.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2116",
+        "sentence": "then we ordered a dinosaur rolls and white tuna sashimi.",
+        "aspect_terms": [
+            {
+                "term": "dinosaur rolls",
+                "polarity": "neutral",
+                "from": "18",
+                "to": "32"
+            },
+            {
+                "term": "white tuna sashimi",
+                "polarity": "neutral",
+                "from": "37",
+                "to": "55"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "317",
+        "sentence": "You won't find that anywhere in Manhattan.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2151",
+        "sentence": "How do you rate home?",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "944",
+        "sentence": "I went here in the afternoon with a friend.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3014",
+        "sentence": "Our first greeting when we entered was The last call is at 10:15.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "900",
+        "sentence": "Interior was so so.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "ambience",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2739",
+        "sentence": "I'm partial to the Gnocchi.",
+        "aspect_terms": [
+            {
+                "term": "Gnocchi",
+                "polarity": "positive",
+                "from": "19",
+                "to": "26"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "279",
+        "sentence": "I guess the way my friends and I described it was The French Colonies.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2937",
+        "sentence": "they were able to squeeze me in at 6 after i called the night before my anniversary for a friday night reservation and told me they'd treat us well for the occasion.",
+        "aspect_terms": [
+            {
+                "term": "reservation",
+                "polarity": "neutral",
+                "from": "103",
+                "to": "114"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "333",
+        "sentence": "Boy was I wrong!",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "236",
+        "sentence": "I visit New Green Bo when I have money or when I am broke.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "price",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1420",
+        "sentence": "Note that they do not serve beer, you must bring your own.",
+        "aspect_terms": [
+            {
+                "term": "beer",
+                "polarity": "negative",
+                "from": "28",
+                "to": "32"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2259",
+        "sentence": "We ate outside at Haru's Sake bar because Haru's restaurant next door was overflowing.",
+        "aspect_terms": [
+            {
+                "term": "bar",
+                "polarity": "neutral",
+                "from": "30",
+                "to": "33"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "608",
+        "sentence": "When we walked in it seemed like it was there for 200 years.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2834",
+        "sentence": "Ahhh...",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "3168",
+        "sentence": "Better than the bagel shop on the corner, but not worth going out of your way for, in my opinion.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2798",
+        "sentence": "it helps if you know what to order.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "2378",
+        "sentence": "The service was typical short-order, dinner type.",
+        "aspect_terms": [
+            {
+                "term": "service",
+                "polarity": "neutral",
+                "from": "4",
+                "to": "11"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "service",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1027",
+        "sentence": "We shared a bottle of sake, an order of edamames, and she had the sushi plate while I had the sashimi.",
+        "aspect_terms": [
+            {
+                "term": "bottle of sake",
+                "polarity": "neutral",
+                "from": "12",
+                "to": "26"
+            },
+            {
+                "term": "edamames",
+                "polarity": "neutral",
+                "from": "40",
+                "to": "48"
+            },
+            {
+                "term": "sushi plat",
+                "polarity": "neutral",
+                "from": "66",
+                "to": "76"
+            },
+            {
+                "term": "sashimi",
+                "polarity": "neutral",
+                "from": "94",
+                "to": "101"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1735",
+        "sentence": "I can't believe people complain about no cheese sticks?",
+        "aspect_terms": [
+            {
+                "term": "cheese sticks",
+                "polarity": "neutral",
+                "from": "41",
+                "to": "54"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "1063",
+        "sentence": "But that is highly forgivable.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "777",
+        "sentence": "From the appetizers we ate, the dim sum and other variety of foods, it was impossible to criticize the food.",
+        "aspect_terms": [
+            {
+                "term": "appetizers",
+                "polarity": "positive",
+                "from": "9",
+                "to": "19"
+            },
+            {
+                "term": "dim sum",
+                "polarity": "positive",
+                "from": "32",
+                "to": "39"
+            },
+            {
+                "term": "foods",
+                "polarity": "positive",
+                "from": "61",
+                "to": "66"
+            },
+            {
+                "term": "food",
+                "polarity": "positive",
+                "from": "103",
+                "to": "107"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "sentence_id": "875",
+        "sentence": "When we arrived at 6:00 PM, the restaurant was practically empty.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "671",
+        "sentence": "Each table has a pot of boiling water sunken into its surface, and you get platters of thin sliced meats, various vegetables, and rice and glass noodles.",
+        "aspect_terms": [
+            {
+                "term": "table",
+                "polarity": "neutral",
+                "from": "5",
+                "to": "10"
+            },
+            {
+                "term": "pot of boiling water",
+                "polarity": "neutral",
+                "from": "17",
+                "to": "37"
+            },
+            {
+                "term": "meats",
+                "polarity": "neutral",
+                "from": "99",
+                "to": "104"
+            },
+            {
+                "term": "vegetables",
+                "polarity": "neutral",
+                "from": "114",
+                "to": "124"
+            },
+            {
+                "term": "rice",
+                "polarity": "neutral",
+                "from": "130",
+                "to": "134"
+            },
+            {
+                "term": "glass noodles",
+                "polarity": "neutral",
+                "from": "139",
+                "to": "152"
+            }
+        ],
+        "aspect_categories": [
+            {
+                "category": "food",
+                "polarity": "neutral"
+            }
+        ]
+    },
+    {
+        "sentence_id": "617",
+        "sentence": "I am going to the mid town location next.",
+        "aspect_terms": [],
+        "aspect_categories": [
+            {
+                "category": "anecdotes/miscellaneous",
+                "polarity": "neutral"
+            }
+        ]
+    }
+]
