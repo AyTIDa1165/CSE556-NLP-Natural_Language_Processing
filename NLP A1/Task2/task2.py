@@ -247,10 +247,13 @@ if __name__ == "__main__":
         """
         idx1, idx2 = dataset.word_to_idx[word1], dataset.word_to_idx[word2]
         vec1, vec2 = embeddings[idx1], embeddings[idx2]
+        # Finding cosine similarity between 2 vectors X and Y.
+        # K(X, Y) = <X, Y> / (||X||*||Y||) 
         return cosine_similarity([vec1], [vec2])[0][0]
 
     # Triplets Used:
     triplets = [
+        # (similar, similar, opposite)
         ("happy", "joyful", "sad"),
         ("lonely", "isolated", "loved")
     ]
